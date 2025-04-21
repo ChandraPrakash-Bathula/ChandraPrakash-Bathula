@@ -77,7 +77,7 @@ _Jun 2023 – Present_
 - Optimized data‑preprocessing pipeline, halving processing time and improving real‑time transcription/video‑to‑text conversion by 50%
 
 ### UX Research & ITS Workflow Analyst • Saint Louis University  
-_Mar 2023 – Dec 2023_  
+_Mar 2023 – Dec 2023_ 
 - Built web interfaces for lost‑and‑found management & 3D‑printing ticketing, boosting efficiency by 40% and user engagement by 25%  
 - Analyzed end‑user data for TeamDynamix iPaaS; automated workflows to cut workload by 15% and improve response times by 30%
 
