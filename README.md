@@ -4,7 +4,7 @@
 
 # Chandra Prakash Bathula
 
-📍 Saint Louis, MO  |  📱 +1 (314) 723‑0206  |  ✉️ [chandraprakash.bathula@slu.edu](mailto:chandraprakash.bathula@slu.edu)  
+📍 Saint Louis, MO   |  ✉️ [chandraprakash.bathula@slu.edu](mailto:chandraprakash.bathula@slu.edu)  
 🔗 [LinkedIn](https://linkedin.com/in/ChandraPrakash-Bathula)  |  [GitHub](https://github.com/ChandraPrakash-Bathula)  |  [Medium](https://medium.com/@ChandraPrakash-Bathula)  |  [Portfolio](https://portfolio-chandra-prakash-bathulas-projects.vercel.app/)
 
 ---
