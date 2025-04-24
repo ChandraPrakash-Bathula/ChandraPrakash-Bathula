@@ -92,15 +92,15 @@ _Mar 2021 – Jul 2022_
 
 ### VizFlixGPT  
 *JavaScript • React.js • Redux • Firebase • TMDB API • OpenAI GPT*  
-Built AI-driven movie recommendation platform serving 1,000+ users; increased session duration by 25%. [Try here](#)
+Built AI-driven movie recommendation platform serving 1,000+ users; increased session duration by 25%.
 
 ### TubeFlix  
 *JavaScript • React.js • Tailwind CSS • YouTube API • Firebase*  
-Developed a responsive video‑streaming app with dynamic search & smart recommendations, improving engagement by 25%. [Try here](#)
+Developed a responsive video‑streaming app with dynamic search & smart recommendations, improving engagement by 25%. [Try here](https://utubeflix-79845.web.app/)
 
 ### EliteNotes App  
 *JavaScript • LLM • TF‑IDF • Word2Vec • React.js • Firebase Auth*  
-Engineered end‑to‑end ML‑powered transcription & summarization features, processing 10,000+ files/day with 50% efficiency gain. [Try here](#)
+Engineered end‑to‑end ML‑powered transcription & summarization features, processing 10,000+ files/day with 50% efficiency gain. [Try here](https://elite-notes-poc.vercel.app/browse)
 
 ### Apparel Recommendation System  
 *Python • BoW • TF‑IDF • Word2Vec • VCG‑CNN*  
@@ -116,7 +116,7 @@ Designed 3 interactive dashboards (salary data, Netflix catalog, Amazon sales) s
 
 ### Farmers App (Figma Prototype)  
 *Figma*  
-Designed an end‑to‑end farmers’ marketplace for climate data, supply‑chain, and crop sales, reducing manual effort by 40%. [Try here](#)
+Designed an end‑to‑end farmers’ marketplace for climate data, supply‑chain, and crop sales, reducing manual effort by 40%. [Try here](https://www.figma.com/proto/Tw1U10o4bFJul3OJTSAXHd/Portfolio-Project?node-id=1-2&t=R7fgQnYN2D6ngU2N-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
 
 ---
 
