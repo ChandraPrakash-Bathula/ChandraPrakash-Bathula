@@ -116,7 +116,7 @@ Designed 3 interactive dashboards (salary data, Netflix catalog, Amazon sales) s
 
 ### Farmers App (Figma Prototype)  
 *Figma*  
-Designed an end‑to‑end farmers’ marketplace for climate data, supply‑chain, and crop sales, reducing manual effort by 40%. [Try here](#)
+Designed an end‑to‑end farmers’ marketplace for climate data, supply‑chain, and crop sales, reducing manual effort by 40%. [Try here](#https://public.tableau.com/app/profile/chandra.prakash.bathula/vizzes)
 
 ---
 
