@@ -112,11 +112,11 @@ Achieved <12% MAPE on taxi demand forecasting using time‑series analysis, clus
 
 ### Tableau Dashboards  
 *Tableau*  
-Designed 3 interactive dashboards (salary data, Netflix catalog, Amazon sales) showcasing advanced visual analytics. [Try here](#)
+Designed 3 interactive dashboards (salary data, Netflix catalog, Amazon sales) showcasing advanced visual analytics. [Try here](#https://public.tableau.com/app/profile/chandra.prakash.bathula/vizzes)
 
 ### Farmers App (Figma Prototype)  
 *Figma*  
-Designed an end‑to‑end farmers’ marketplace for climate data, supply‑chain, and crop sales, reducing manual effort by 40%. [Try here](#https://public.tableau.com/app/profile/chandra.prakash.bathula/vizzes)
+Designed an end‑to‑end farmers’ marketplace for climate data, supply‑chain, and crop sales, reducing manual effort by 40%. [Try here](#)
 
 ---
 
