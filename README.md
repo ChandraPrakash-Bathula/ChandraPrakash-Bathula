@@ -15,7 +15,7 @@
 
 I'm a Machine Learning Engineer and Applied Researcher with a passion for building impactful solutions across domains like NLP, Computer Vision, and Data Science. From transforming video-to-text workflows to crafting intuitive web experiences, I blend creativity with analytics.
 
-🎓 **M.S. in Computer & Information Sciences**, Saint Louis University (GPA: 3.93/4.00)  
+🎓 **M.S. in Information Systems**, Saint Louis University (GPA: 3.93/4.00)  
 👨‍🏫 Adjunct Faculty @ SLU | 🛠 Ex-Software Engineer @ Qentelli | 🧠 Lifelong Learner & Writer
 
 ---
@@ -60,8 +60,8 @@ I'm a Machine Learning Engineer and Applied Researcher with a passion for buildi
 
 ### 📌 Current Goals
 
-- 🎯 Writing 108-blog **Deep Learning Series** (2025)
-- 🧪 Publishing 2–3 **ML research papers** (NeurIPS/ICML track)
+- 🎯 Writing in-depth blogs on **Deep Learning Series** (2025)
+- 🧪 Publishing **ML research papers** (Top-tier conferences)
 - 🔍 Exploring **LLM-augmented interpretability** for healthcare AI
 - 🌱 Building an **open-source ML experimentation UI**
 
@@ -69,7 +69,7 @@ I'm a Machine Learning Engineer and Applied Researcher with a passion for buildi
 
 ### ✨ Quote I Live By
 
-<p align="center"><i>“Every day brings new data, new insights, and new possibilities.”</i></p>
+<p align="center"><i>“Even if your tried 100 times, try once more.”</i></p>
 
 ---
 
