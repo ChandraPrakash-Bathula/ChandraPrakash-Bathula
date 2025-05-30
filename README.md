@@ -52,9 +52,9 @@ I'm a Machine Learning Engineer and Applied Researcher with a passion for buildi
 
 ### 🏆 Highlights
 
-- 🎖 **Distinguished Student Award** for graduate research  
-- ✍️ **100+ Blogs** on ML, DL, & applied AI – [Read on Medium](https://medium.com/@ChandraPrakash-Bathula)  
-- 👨‍🏫 Teaching ML/Software Dev to professionals & students with practical fusion approaches
+- 🎖 **Distinguished Student Award** for graduate research.
+- ✍️ **100+ Blogs** on ML, DL, & applied AI – [Read on Medium](https://medium.com/@ChandraPrakash-Bathula)
+- 👨‍🏫 Teaching ML/Software Dev to professionals & students with practical fusion approaches.
 
 ---
 
