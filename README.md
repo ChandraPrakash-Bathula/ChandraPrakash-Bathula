@@ -15,7 +15,7 @@
 
 I'm a Machine Learning Engineer and Applied Researcher with a passion for building impactful solutions across domains like NLP, Computer Vision, and Data Science. From transforming video-to-text workflows to crafting intuitive web experiences, I blend creativity with analytics.
 
-🎓 **M.S. in Information Systems**, Saint Louis University (GPA: 3.93/4.00)  
+🎓 **M.S. Information Systems**, Saint Louis University (GPA: 3.93/4.00)  
 👨‍🏫 Adjunct Faculty @ SLU | 🛠 Ex-Software Engineer @ Qentelli | 🧠 Lifelong Learner & Writer
 
 ---
