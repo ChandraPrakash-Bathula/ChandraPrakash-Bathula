@@ -69,7 +69,7 @@ I'm a Machine Learning Engineer and Applied Researcher with a passion for buildi
 
 ### ✨ Quote I Live By
 
-<p align="center"><i>“Even if you have tried 100 times, try once more.”</i></p>
+<p align="center"><i>“Even if you have failed 100 times, try once more.”</i></p>
 
 ---
 
