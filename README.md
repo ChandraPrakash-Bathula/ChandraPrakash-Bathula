@@ -1,5 +1,4 @@
 <!-- GitHub Profile README for Chandra Prakash Bathula -->
-
 <h1 align="center">Hi 👋, I'm Chandra Prakash Bathula</h1>
 <p align="center">
 📍 Saint Louis, MO, USA &nbsp;|&nbsp; ✉️ <a href="mailto:chandraprakash.bathula@slu.edu">Email</a> &nbsp;|&nbsp; 
