@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Chandra Prakash Bathula -->
 <h1 align="center">Hi 👋, I'm Chandra Prakash Bathula</h1>
 <p align="center">
-📍 Saint Louis, MO, USA &nbsp;|&nbsp; ✉️ <a href="mailto:chandraprakash.bathula@slu.edu">Email</a> &nbsp;|&nbsp; 
+📍 Saint Louis, MO, USA &nbsp;|&nbsp; ✉️ <a href="mailto:chandraprakash.bathula@slu.edu">E-mail</a> &nbsp;|&nbsp; 
 🔗 <a href="https://www.linkedin.com/in/chandra-prakash-bathula/">LinkedIn</a> &nbsp;|&nbsp;
 💻 <a href="https://github.com/ChandraPrakash-Bathula">GitHub</a> &nbsp;|&nbsp;
 📝 <a href="https://medium.com/@ChandraPrakash-Bathula">Medium</a> &nbsp;|&nbsp;
