@@ -33,14 +33,11 @@ I'm a Machine Learning Practitioner and Applied AI Researcher with a passion for
 
 ### 💡 Featured Projects
 
-- **EliteNotes App** – AI-driven note summarization with multilingual support  
-  🔗 [Try it](https://elite-notes-poc.vercel.app/browse)
+- **EliteNotes App** – AI-driven note summarization with multilingual support  🌐 [Try it](https://elite-notes-poc.vercel.app/browse)
 
-- **VizFlixGPT** – Movie recommendation using GPT + TMDB  
-  🔗 [GitHub](https://github.com/ChandraPrakash-Bathula)
+- **VizFlixGPT** – Movie recommendation using GPT + TMDB  💻 [GitHub](https://github.com/ChandraPrakash-Bathula)
 
-- **TubeFlix** – Smart YouTube-style streaming app  
-  🔗 [Live Demo](https://utubeflix-79845.web.app/)
+- **TubeFlix** – Smart YouTube-style streaming app  🌐 [Live Demo](https://utubeflix-79845.web.app/)
 
 - **Taxi Demand Forecasting** – <12% MAPE using XGBoost  
 - **Apparel Recommender** – CV + NLP hybrid (TF-IDF, Word2Vec, CNN)  
