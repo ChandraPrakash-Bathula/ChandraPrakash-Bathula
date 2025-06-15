@@ -65,7 +65,7 @@ I'm a Machine Learning Practitioner and Applied AI Researcher with a passion for
 
 ### ✨ Quote I Live By
 
-<p align="center"><i>“Even if you have failed 100 times, try once more.”</i></p>
+<p align="center"><i>“Even if you've failed 100 times, try once more.”</i></p>
 
 ---
 
