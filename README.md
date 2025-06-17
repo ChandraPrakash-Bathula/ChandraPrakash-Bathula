@@ -70,9 +70,7 @@ I'm a Machine Learning Practitioner and Applied AI Researcher with a passion for
 ---
 
 <!-- GitHub Stats (optional) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-stats.vercel.app/api?username=ChandraPrakash-Bathula&theme=dark&..."
-   >
-  <img src="https://github-readme-stats.vercel.app/api?username=ChandraPrakash-Bathula&theme=light&..." />
-</picture>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChandraPrakash-Bathula&show_icons=true&theme=github_dark" width="450"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ChandraPrakash-Bathula&theme=github-dark-blue" width="450"/>
+</p>
