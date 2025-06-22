@@ -57,7 +57,7 @@ I'm a Machine Learning Practitioner and Applied AI Researcher with a passion for
 ### 📌 Current Goals
 
 - 🎯 Writing in-depth blogs on **Deep Learning Series** (2025)
-- 🧪 Publishing **ML research papers** (Top-tier conferences)
+- 🧪 Publishing **ML research papers** (NeurIPs, ICML, CVPR, AISTATS, AAAI)
 - 🔍 Exploring **LLM-augmented interpretability** for healthcare AI
 - 🌱 Building an **open-source ML experimentation UI**
 
