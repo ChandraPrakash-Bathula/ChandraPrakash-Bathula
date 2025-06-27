@@ -15,7 +15,7 @@
 I'm an Machine Learning Practitioner and Applied AI Researcher with a passion for building impactful solutions across domains like NLP, Computer Vision, and Data Science. From transforming video-to-text workflows to crafting intuitive web experiences, I blend creativity with insights & analytics.
 
 🎓 **MS in Information Systems**, Saint Louis University (GPA: 3.93/4.00)  
-👨‍🏫 Faculty @ Saint Louis University | 🛠 Ex-Software Engineer @ Qentelli | 🧠 Lifelong Learner & Innovator
+👨‍🏫 Faculty @ Saint Louis University | 🛠 Ex-Associate Software Engineer @ Qentelli | 🧠 Lifelong Learner & Innovator
 
 ---
 
