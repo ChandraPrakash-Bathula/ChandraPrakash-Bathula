@@ -59,7 +59,7 @@ I'm an Machine Learning Practitioner and Applied AI Researcher with a passion fo
 - 🎯 Writing in-depth blogs on **Deep Learning Series** (2025)
 - 🧪 Publishing **ML research papers** (NeurIPs, ICML, CVPR, AISTATS, AAAI)
 - 🔍 Exploring **LLM-augmented interpretability** for healthcare AI
-- 🌱 Building an **open-source AI/ML experimentation UI**
+- 🌱 Building an **open-source AI/ML experimentation UI Project**
 
 ---
 
