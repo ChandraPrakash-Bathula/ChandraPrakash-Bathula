@@ -1,73 +1,89 @@
 <!-- GitHub Profile README for Chandra Prakash Bathula -->
-<h1 align="center">Greetings 👋, I'm Chandra Prakash Bathula</h1>
+<h1 align="center">Hey 👋, I'm Chandra Prakash Bathula</h1>
 <p align="center">
-📍 Saint Louis, MO, USA  |  ✉️ <a href="mailto:chandraprakash.bathula@slu.edu">Contact</a>  |  
+📍 Saint Louis, MO, USA  |  ✉️ <a href="mailto:chandraprakash.bathula@slu.edu">Connect</a>  |  
 💻 <a href="https://github.com/ChandraPrakash-Bathula">GitHub</a>  | 
 🔗 <a href="https://www.linkedin.com/in/chandra-prakash-bathula/">LinkedIn</a>  | 
 📝 <a href="https://medium.com/@ChandraPrakash-Bathula">Medium</a>  | 
-🌐 <a href="https://portfolio-chandra-prakash-bathulas-projects.vercel.app/">Portfolio</a>
+🌌 <a href="https://portfolio-chandra-prakash-bathulas-projects.vercel.app/">Portfolio</a>
 </p>
 
 ---
 
-### 🌌 About Me
+### 🌠 About Me
 
-I’m a **Machine Learning Scholar** and **Applied AI Visionary**, weaving the elegance of **physics** and **mathematics** into innovative AI solutions. My work bridges the theoretical beauty of differential equations and quantum mechanics with the transformative power of NLP, Computer Vision, and Data Science. With a painter’s creativity and a physicist’s precision, I craft algorithms that resonate with both rigor and artistry.
+I’m a **Machine Learning Researcher** and **Applied AI Innovator**, navigating the cosmos of **physics**, **mathematics**, and **data science**. My work fuses the precision of quantum mechanics and differential equations with the power of NLP, Computer Vision, and probabilistic modeling to build solutions that push boundaries.
 
 🎓 **MS in Information Systems**, Saint Louis University (GPA: 3.93/4.00)  
-👨‍🏫 Faculty @ Saint Louis University | 🛠 Former Associate Software Engineer @ Qentelli | 🎨 Eternal Explorer of Science and Creativity
+👨‍🏫 Faculty @ Saint Louis University | 🛠 Ex-Associate Software Engineer @ Qentelli | 🚀 Driven by curiosity and discovery
 
 ---
 
-### 🧮 Technical Foundations
+### 🪐 Technical Orbit
 
-**Core Sciences**: Mathematical Modeling, Linear Algebra, Differential Equations, Statistical Mechanics  
+**Foundations**: Linear Algebra, Differential Equations, Statistical Mechanics, Probability Theory  
 **Languages**: Python, R, Julia, MATLAB, C++  
-**ML/DL Frameworks**: TensorFlow, PyTorch, Scikit-learn, JAX, Keras  
-**Visualization**: Matplotlib, Seaborn, Tableau, Plotly, D3.js  
-**Web & Creative Tools**: React.js, Vue.js, Django, Flask, Figma (UI/UX)  
-**Data & Workflow**: Pandas, NumPy, Airflow, Firebase, APIs, Git, AWS  
-**Methodology**: Bayesian Inference, Optimization, Probabilistic Modeling, Agile
+**ML/DL**: TensorFlow, PyTorch, Scikit-learn, JAX, Keras  
+**Data & Viz**: Pandas, NumPy, Matplotlib, Seaborn, Tableau, Plotly  
+**Web & Tools**: React.js, Node.js, Django, Flask, Git, AWS, Jupyter  
+**Workflow**: Bayesian Methods, Optimization, Airflow, Agile, APIs  
 
 ---
 
-### 🖼 Featured Works
+### 🌌 Key Projects
 
-- **EliteNotes** – AI-driven multilingual note summarization, blending NLP with intuitive design 🌐 [Explore](https://elite-notes-poc.vercel.app/browse)  
-- **VizFlixGPT** – A cinematic fusion of GPT and TMDB for intelligent movie recommendations 🎥 [GitHub](https://github.com/ChandraPrakash-Bathula)  
-- **TubeFlix** – A dynamic streaming platform inspired by YouTube’s flow 📺 [Live Demo](https://utubeflix-79845.web.app/)  
-- **Taxi Demand Forecasting** – Achieved <12% MAPE using XGBoost, grounded in time-series analysis 🚖  
-- **Apparel Recommender** – A symphony of CV and NLP (TF-IDF, Word2Vec, CNN) for personalized fashion 👗  
-- **Tableau Visualizations** – Data artistry in interactive dashboards [View](https://public.tableau.com/app/profile/chandra.prakash.bathula/vizzes)  
-- **Farmers App UX** – A Figma-crafted interface balancing functionality and aesthetic elegance [Prototype](https://www.figma.com/proto/Tw1U10o4bFJul3OJTSAXHd/Portfolio-Project)
-
----
-
-### 🌟 Achievements
-
-- 🎖 **Distinguished Student Award** for pioneering graduate research in AI applications  
-- ✍️ **100+ Articles** on ML, DL, and applied physics – [Read on Medium](https://medium.com/@ChandraPrakash-Bathula)  
-- 👨‍🏫 Mentoring aspiring scientists and developers in physics-inspired ML and software craftsmanship  
+- **EliteNotes** – AI-powered note summarization with multilingual support 🌍 [Explore](https://elite-notes-poc.vercel.app/browse)  
+- **VizFlixGPT** – GPT-driven movie recommendations using TMDB data 🎥 [GitHub](https://github.com/ChandraPrakash-Bathula)  
+- **TubeFlix** – Smart streaming platform with YouTube-like flow 📺 [Live Demo](https://utubeflix-79845.web.app/)  
+- **Taxi Demand Forecasting** – <12% MAPE via XGBoost, rooted in time-series math 🚖  
+- **Apparel Recommender** – Hybrid CV+NLP model (TF-IDF, Word2Vec, CNN) 👗  
+- **Tableau Dashboards** – Dynamic data visualizations [View](https://public.tableau.com/app/profile/chandra.prakash.bathula/vizzes)  
 
 ---
 
-### 🔭 Future Horizons
+### 🏅 Milestones
 
-- 📝 Authoring a **Deep Learning Series** (2025), exploring the mathematics of neural architectures  
-- 📜 Targeting publications in **NeurIPS, ICML, CVPR, AISTATS, AAAI** with physics-informed ML models  
-- 🧠 Investigating **LLM-augmented interpretability** for healthcare diagnostics  
-- 🌍 Crafting an **open-source AI/ML experimentation platform**, blending math, code, and artistic UX  
-
----
-
-### 🎨 Guiding Principle
-
-<p align="center"><i>“In the dance of equations and algorithms, every failure is a brushstroke toward discovery.”</i></p>
+- 🎖 **Distinguished Student Award** for groundbreaking AI research  
+- ✍️ **100+ Articles** on ML, DL, and physics-informed AI – [Read on Medium](https://medium.com/@ChandraPrakash-Bathula)  
+- 👨‍🏫 Teaching ML and software dev with a physics-first approach  
 
 ---
 
-<!-- GitHub Stats with a Cosmic Touch -->
+### 🔭 Cosmic Goals
+
+- 📝 Crafting a **Deep Learning Series** (2025) grounded in mathematical rigor  
+- 📜 Targeting **NeurIPS, ICML, CVPR, AISTATS, AAAI** with physics-inspired ML papers  
+- 🧠 Exploring **LLM interpretability** for healthcare AI advancements  
+- 🌍 Building an **open-source AI/ML experimentation platform** for global impact  
+
+---
+
+### ✨ My North Star
+
+<p align="center"><i>“Every unsolved equation is a signal from the cosmos, waiting to be decoded.”</i></p>
+
+---
+
+<!-- GitHub Stats with a Cosmic Glow -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChandraPrakash-Bathula&show_icons=true&theme=gruvbox" width="450"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ChandraPrakash-Bathula&theme=nightowl" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChandraPrakash-Bathula&show_icons=true&theme=transparent&bg_color=00000000&text_color=ffffff&border_color=ffffff33" width="450"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ChandraPrakash-Bathula&theme=transparent&background=00000000&border=ffffff33&stroke=ffffff&fire=ff4500" width="450"/>
 </p>
+
+<!-- Glassmorphism Background Styling -->
+<style>
+  body {
+    background: linear-gradient(135deg, rgba(0, 0, 50, 0.9), rgba(20, 20, 80, 0.7)), url('https://images.unsplash.com/photo-1465101162946-4377e57745c3');
+    background-size: cover;
+    backdrop-filter: blur(8px);
+    color: #ffffff;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  }
+  h1, h2, h3, p {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    padding: 10px 20px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  }
+</style>
