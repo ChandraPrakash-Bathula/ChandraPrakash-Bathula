@@ -1,65 +1,62 @@
 <!-- GitHub Profile README for Chandra Prakash Bathula -->
-<h1 align="center">Hi 👋, I'm Chandra Prakash Bathula</h1>
+<h1 align="center">Yo, What's Good? 👋 I'm Chandra Prakash Bathula</h1>
 <p align="center">
-📍 Saint Louis, MO, USA &nbsp;|&nbsp; ✉️ <a href="mailto:chandraprakash.bathula@slu.edu">Email</a> &nbsp;|&nbsp; 
-💻 <a href="https://github.com/ChandraPrakash-Bathula">GitHub</a> &nbsp;|&nbsp;
-🔗 <a href="https://www.linkedin.com/in/chandra-prakash-bathula/">LinkedIn</a> &nbsp;|&nbsp;
-📝 <a href="https://medium.com/@ChandraPrakash-Bathula">Medium</a> &nbsp;|&nbsp;
+📍 Saint Louis, MO, USA  |  ✉️ <a href="mailto:chandraprakash.bathula@slu.edu">Hit Me Up</a>  |  
+💻 <a href="https://github.com/ChandraPrakash-Bathula">GitHub</a>  | 
+🔗 <a href="https://www.linkedin.com/in/chandra-prakash-bathula/">LinkedIn</a>  | 
+📝 <a href="https://medium.com/@ChandraPrakash-Bathula">Medium</a>  | 
 🌐 <a href="https://portfolio-chandra-prakash-bathulas-projects.vercel.app/">Portfolio</a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 🔥 Who Am I?
 
-I'm an Machine Learning Practitioner and Applied AI Researcher with a passion for building impactful solutions across domains like NLP, Computer Vision, and Data Science. From transforming video-to-text workflows to crafting intuitive web experiences, I blend creativity with insights & analytics.
+I'm a **Machine Learning Wizard** and **Applied AI Trailblazer** who thrives on crafting game-changing solutions in NLP, Computer Vision, and Data Science. From redefining video-to-text pipelines to building slick web apps, I fuse creativity with data-driven magic.
 
 🎓 **MS in Information Systems**, Saint Louis University (GPA: 3.93/4.00)  
-👨‍🏫 Faculty @ Saint Louis University | 🛠 Ex-Associate Software Engineer @ Qentelli | 🧠 Lifelong Learner & Innovator
+👨‍🏫 Faculty @ Saint Louis University | 🛠 Ex-Associate Software Engineer @ Qentelli | 🚀 Forever chasing innovation
 
 ---
 
-### 🔧 Tech Stack
+### 🛠 My Arsenal
 
-**Languages**: Python, R, SQL, JavaScript, TypeScript, MATLAB  
+**Code**: Python, R, SQL, JavaScript, TypeScript, MATLAB  
 **ML/DL**: Scikit-learn, TensorFlow, PyTorch, Keras  
-**Visualization**: Tableau, Power BI, Matplotlib, Seaborn  
+**Viz**: Tableau, Power BI, Matplotlib, Seaborn  
 **Web**: React.js, Vue.js, Node.js, Django, Flask  
 **Tools**: Git, GitHub, AWS, Jupyter, VS Code, PyCharm  
 **Data**: Pandas, NumPy, Firebase, APIs, Airflow  
-**Project Mgmt**: Jira, Agile, UI/UX Prototyping (Figma)
+**Workflow**: Jira, Agile, UI/UX Prototyping (Figma)
 
 ---
 
-### 💡 Featured Projects
+### 🚀 Projects That Slap
 
-- **EliteNotes App** – AI-driven note summarization with multilingual support  🌐 [Try it](https://elite-notes-poc.vercel.app/browse)
-
-- **VizFlixGPT** – Movie recommendation using GPT + TMDB  💻 [GitHub](https://github.com/ChandraPrakash-Bathula)
-
-- **TubeFlix** – Smart YouTube-style streaming app  🌐 [Live Demo](https://utubeflix-79845.web.app/)
-
-- **Taxi Demand Forecasting** – <12% MAPE using XGBoost  
-- **Apparel Recommender** – CV + NLP hybrid (TF-IDF, Word2Vec, CNN)  
-- **Interactive Tableau Dashboards** – [Explore](https://public.tableau.com/app/profile/chandra.prakash.bathula/vizzes)  
-- **Farmers App UX Design** – [View Figma](https://www.figma.com/proto/Tw1U10o4bFJul3OJTSAXHd/Portfolio-Project)
+- **EliteNotes App** – AI-powered note summarization with global flair 🌍 [Check It](https://elite-notes-poc.vercel.app/browse)  
+- **VizFlixGPT** – GPT-driven movie recs with TMDB swagger 🎥 [GitHub](https://github.com/ChandraPrakash-Bathula)  
+- **TubeFlix** – YouTube-style streaming app with smarts 📺 [Live Demo](https://utubeflix-79845.web.app/)  
+- **Taxi Demand Forecasting** – Nailed <12% MAPE with XGBoost 🚖  
+- **Apparel Recommender** – CV + NLP mashup (TF-IDF, Word2Vec, CNN) 👗  
+- **Interactive Tableau Dashboards** – [Dive In](https://public.tableau.com/app/profile/chandra.prakash.bathula/vizzes)  
+- **Farmers App UX Design** – [Peep the Figma](https://www.figma.com/proto/Tw1U10o4bFJul3OJTSAXHd/Portfolio-Project)
 
 ---
 
-### 🏆 Highlights
+### 🏆 My Flex
 
-- 🎖 **Distinguished Student Award** for graduate research.
-- ✍️ **100+ Blogs** on ML, DL, & applied AI – [Read on Medium](https://medium.com/@ChandraPrakash-Bathula)
-- 👨‍🏫 Teaching ML/Software Dev to professionals & students with practical fusion approaches.
+- 🎖 **Distinguished Student Award** for cutting-edge grad research  
+- ✍️ Dropped **100+ blogs** on ML, DL, & applied AI – [Binge on Medium](https://medium.com/@ChandraPrakash-Bathula)  
+- 👨‍🏫 Mentoring pros and students in ML/Software Dev with real-world vibes
 
 ---
 
-### 📌 Current Goals
+### 🎯 What's Next?
 
-- 🎯 Writing in-depth blogs on **Deep Learning Series** (2025)
-- 🧪 Publishing **ML research papers** (NeurIPs, ICML, CVPR, AISTATS, AAAI)
-- 🔍 Exploring **LLM-augmented interpretability** for healthcare AI
-- 🌱 Building an **open-source AI/ML experimentation UI Project**
+- ✍️ Dropping a **Deep Learning Series** for 2025  
+- 📜 Submitting **ML research papers** to NeurIPs, ICML, CVPR, AISTATS, AAAI  
+- 🔬 Diving into **LLM-augmented interpretability** for healthcare AI  
+- 🌍 Building an **open-source AI/ML experimentation UI** to empower creators
 
 ---
 
@@ -69,8 +66,8 @@ I'm an Machine Learning Practitioner and Applied AI Researcher with a passion fo
 
 ---
 
-<!-- GitHub Stats (optional) -->
+<!-- GitHub Stats to Keep It 💯 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChandraPrakash-Bathula&show_icons=true&theme=github_dark" width="450"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ChandraPrakash-Bathula&theme=github-dark-blue" width="450"/>
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api?username=ChandraPrakash-Bathula&show_icons=true&theme=radical" width="450"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ChandraPrakash-Bathula&theme=highcontrast" width="450"/>
+</p>
