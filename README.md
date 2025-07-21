@@ -1,4 +1,4 @@
-# 🌌 Chandra Prakash Bathula
+# Chandra Prakash Bathula 🌌 
 
 <p align="center">
 📍 Saint Louis, MO, USA  |  ✉️ <a href="mailto:chandraprakash.bathula@slu.edu">Connect</a>  |  
