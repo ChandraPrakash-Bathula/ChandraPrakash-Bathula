@@ -1,4 +1,4 @@
-# Chandra Prakash Bathula | Machine Learning Engineer | Full Stack Web Developer | UI/UX Designer
+# Chandra Prakash Bathula | Machine Learning Engineer | Full Stack Web Developer [MERN] | UI/UX Designer
 
 <p align="center">
 📍 Saint Louis, MO, USA  |  ✉️ <a href="mailto:chandraprakash.bathula@slu.edu">Connect</a>  |  
