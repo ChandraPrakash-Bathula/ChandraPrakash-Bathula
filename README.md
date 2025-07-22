@@ -58,7 +58,7 @@ I’m a **Machine Learning Researcher** orbiting the intersection of **physics**
 
 ---
 
-## ✨ Guiding Star
+## ✨ Guiding Star Path
 
 <p align="center"><i>“Every equation is a pulse from the cosmos, waiting to be unraveled.”</i></p>
 
