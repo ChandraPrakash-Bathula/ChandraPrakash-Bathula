@@ -1,4 +1,4 @@
-# Chandra Prakash Bathula 
+<h1 align="center"> Chandra Prakash Bathula </h1>
 <h2 align="center"> Machine Learning Engineer | Full Stack Web Developer [MERN] | UI/UX Designer </h2>
 
 <p align="center">
