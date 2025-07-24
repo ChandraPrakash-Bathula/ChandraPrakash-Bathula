@@ -53,7 +53,7 @@ I’m a **Machine Learning Researcher** orbiting the intersection of **physics**
 ## 🔭 Cosmic Roadmap
 
 - 📝 Authoring a **Deep Learning Series** (2025) rooted in mathematical rigor  
-- 📜 Targeting **NeurIPS, ICML, CVPR, AISTATS, AAAI** with physics-inspired ML papers  
+- 📜 Targeting **NeurIPS, ICML, CVPR, AISTATS, AAAI** with memory-inspired ML papers  
 - 🧠 Probing **LLM interpretability** for healthcare AI breakthroughs  
 - 🌍 Building an **open-source AI/ML experimentation platform** for global impact  
 
