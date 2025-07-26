@@ -2,7 +2,7 @@
 <h2 align="center"> Machine Learning Engineer | Full Stack Web Developer [MERN Stack] | UI/UX Designer </h2>
 
 <p align="center">
-📍 Saint Louis, MO, USA  |  ✉️ <a href="mailto:chandraprakash.bathula@slu.edu">Connect</a>  |  
+📍 Saint Louis, MO, USA  |  ✉️ <a href="mailto:chandraprakash.bathula@slu.edu">Email</a>  |  
 💻 <a href="https://github.com/ChandraPrakash-Bathula">GitHub</a>  |  
 🔗 <a href="https://www.linkedin.com/in/chandra-prakash-bathula/">LinkedIn</a>  |  
 📝 <a href="https://medium.com/@ChandraPrakash-Bathula">Medium</a>  |  
