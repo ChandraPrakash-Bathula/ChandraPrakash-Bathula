@@ -1,5 +1,5 @@
 <h1 align="center"> Chandra Prakash Bathula </h1>
-<h2 align="center"> Machine Learning Engineer | Full Stack Developer [MERN Stack] | UI/UX Designer [FIGMA] </h2>
+<h2 align="center"> Machine Learning Engineer | Full Stack Developer [MERN] | UI/UX Designer [FIGMA] </h2>
 
 <p align="center">
 📍 Saint Louis, MO, USA  |  ✉️ <a href="mailto:chandraprakash.bathula@slu.edu">Email</a>  |  
