@@ -5,7 +5,7 @@
 📍 Saint Louis, MO, USA  |  ✉️ <a href="mailto:chandraprakash.bathula@slu.edu">Email</a>  |  
 💻 <a href="https://github.com/ChandraPrakash-Bathula">GitHub</a>  |  
 🔗 <a href="https://www.linkedin.com/in/chandra-prakash-bathula/">LinkedIn</a>  |  
-📝 <a href="https://medium.com/@ChandraPrakash-Bathula">Medium</a>  |  
+📝 <a href="https://medium.com/@ChandraPrakash-Bathula">Blogs</a>  |  
 🌠 <a href="https://portfolio-chandra-prakash-bathulas-projects.vercel.app/">Portfolio</a>
 </p>
 
