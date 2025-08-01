@@ -1,4 +1,4 @@
-<h1 align="center"> Chandra Prakash Bathula </h1>
+<h1 align="center"> Bathula Chandra Prakash </h1>
 <h2 align="center"> Machine Learning Engineer | Full Stack Developer [MERN] | UI/UX Designer [FIGMA] </h2>
 
 <p align="center">
