@@ -16,7 +16,7 @@
 I’m a **Machine Learning Researcher** orbiting the intersection of **physics**, **mathematics**, and **AI**. I craft solutions that blend the elegance of differential equations and statistical mechanics with the power of NLP, Computer Vision, and probabilistic models to explore the universe of data.
 
 🎓 **MS in Information Systems**, Saint Louis University (GPA: 3.93/4.00)  
-👨‍🏫 Faculty @ Saint Louis University | 🛠 Associate Software Engineer @ Qentelli | 🌌 Blogger
+👨‍🏫 Adjunct Faculty @ Saint Louis University | 🛠 Associate Software Engineer @ Qentelli | 🌌 Blogger
 
 ---
 
