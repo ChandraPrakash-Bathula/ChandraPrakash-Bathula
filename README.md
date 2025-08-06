@@ -45,7 +45,7 @@ I’m a **Machine Learning Researcher** orbiting the intersection of **physics**
 ## 🏅 Achievements
 
 - 🎖 **Distinguished Student Award** for pioneering AI research  
-- ✍️ **100+ Articles** on ML, DL, and physics-informed AI [Medium](https://medium.com/@ChandraPrakash-Bathula)  
+- ✍️ **100+ Articles** on ML, DL, and applied AI [Medium](https://medium.com/@ChandraPrakash-Bathula)  
 - 👨‍🏫 Teaching ML and software dev with a physics-first lens  
 
 ---
