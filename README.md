@@ -81,19 +81,3 @@ I am a **Machine Learning Engineer** and **Full Stack Developer** with a strong 
 <p align="center"><i>“Every equation is a pulse from the cosmos, waiting to be unraveled.”</i></p>
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center" style="display:flex;gap:10px;flex-wrap:wrap;justify-content:center;align-items:center;">
-  <a href="https://github.com/ChandraPrakash-Bathula" target="_blank" rel="noopener">
-    <img alt="GitHub stats for ChandraPrakash-Bathula"
-         src="https://github-readme-stats.vercel.app/api?username=ChandraPrakash-Bathula&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=bbbbbb&icon_color=ff4500"
-         style="max-width:100%;height:auto;width:450px;"/>
-  </a>
-  <a href="https://github.com/ChandraPrakash-Bathula" target="_blank" rel="noopener">
-    <img alt="GitHub streak for ChandraPrakash-Bathula"
-         src="https://github-readme-streak-stats-eight.vercel.app/?user=ChandraPrakash-Bathula&theme=transparent&hide_border=true&background=00000000&stroke=ff4500&fire=ff4500"
-         style="max-width:100%;height:auto;width:450px;"/>
-  </a>
-</p>
-
