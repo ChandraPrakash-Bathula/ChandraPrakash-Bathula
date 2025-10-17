@@ -59,3 +59,46 @@ Welcome to my GitHub! I'm a passionate **AI Developer** and **Frontend Engineer*
   ```python
   from huggingface_hub import from_pretrained_pytorch
   model = from_pretrained_pytorch("chandu1617/CIFAR10-CNN_Model")
+
+  ## 🖼️ Interactive Demo
+
+Try it at [chandu1617/cifar10-cnn-demo](https://huggingface.co/spaces/chandu1617/cifar10-cnn-demo)
+
+**Downloads**: 31/month
+
+## 🛠️ Tech Stack
+
+- **Languages**: Python, JavaScript (ES6+), TypeScript, SQL, R, MATLAB
+- **Frontend**: React.js, Vue.js, Next.js, Node.js, Express.js, Redux, Electron.js
+- **UI/UX**: Figma, Responsive Design, WCAG/ARIA Accessibility
+- **Testing**: Jest, Cypress, Unit/Integration/E2E Testing
+- **DevOps & Cloud**: AWS (EC2, Lambda, S3, RDS), Docker, Vercel, Firebase, CI/CD
+- **Machine Learning**: scikit-learn, TensorFlow, PyTorch, NLP, Word2Vec, VGG-CNN, XGBoost
+
+## 🏆 Achievements
+
+- 🧾 **First Author**: *“Enterprise Application Tool to Discover Midwest Job Trends”*
+- 🥇 **Distinguished Student Award** — Master’s Research & Academic Excellence
+- 📊 Presented ML/AI research at **CCSC Central Plains Conference @ Drake University**
+
+## 📝 Blogs
+
+I share insights on AI, ML, and software development. Check out my latest posts:  
+🌐 [Medium Blogs](https://medium.com/@ChandraPrakash-Bathula)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChandraPrakash-Bathula&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraPrakash-Bathula&layout=compact&theme=radical)
+
+## 📬 Connect with Me
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/chandra-prakash-bathula)  
+[<img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium">](https://medium.com/@ChandraPrakash-Bathula)  
+[<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">](https://github.com/ChandraPrakash-Bathula)  
+[<img src="https://img.shields.io/badge/Portfolio-FF5733?logo=firefox&logoColor=white" alt="Portfolio">](https://portfolio-chandra-prakash-bathulas-projects.vercel.app)  
+[<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">](mailto:chandu.bathula16@gmail.com)
+
+---
+
+⭐️ Thanks for stopping by! Explore my repos, try the CIFAR-10 demo, or ping me to collaborate! 😎
