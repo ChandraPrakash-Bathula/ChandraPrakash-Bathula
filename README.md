@@ -1,83 +1,86 @@
-<h1 align="center">Chandra Prakash Bathula</h1>
-<h2 align="center">Machine Learning Engineer | AI Agent & LLM Developer | Full Stack [MERN] | UI/UX Designer [Figma]</h2>
+# 👋 Hi, I'm Chandra Prakash Bathula
 
-<p align="center">
-📍 Saint Louis, MO, USA  |  
-✉️ <a href="mailto:chandraprakash.bathula@slu.edu">Email</a>  |  
-💻 <a href="https://github.com/ChandraPrakash-Bathula">GitHub</a>  |  
-🔗 <a href="https://www.linkedin.com/in/chandra-prakash-bathula/">LinkedIn</a>  |  
-📝 <a href="https://medium.com/@ChandraPrakash-Bathula">Medium</a>  |  
-🌠 <a href="https://portfolio-chandra-prakash-bathulas-projects.vercel.app/">Portfolio</a>
-</p>
+🎓 **Adjunct Faculty & Software Developer @ Saint Louis University**  
+💻 **Frontend Engineer | AI Researcher | ML Developer | Educator**
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-I am a **Machine Learning Engineer** and **Full Stack Developer** with a strong focus on **AI agents, Large Language Models (LLMs), and MLOps**. I combine **mathematics**, **physics**, and **AI** to design intelligent systems that perceive, reason, and act autonomously.  
+I'm a passionate **AI Developer and Front-End Engineer** with a Master's in **Information Systems (GPA: 3.93/4.00)** from **Saint Louis University**.  
+I specialize in designing intelligent, scalable web systems that bridge **Machine Learning** and **Modern Front-End Development**.
 
-🎓 **MS in Information Systems**, Saint Louis University (GPA: 3.93/4.00)  
-👨‍🏫 Adjunct Faculty @ Saint Louis University | 🛠 Associate Software Engineer @ Qentelli | 🌌 Blogger  
+I’ve mentored **250+ students** in software and ML development, deployed **40+ full-stack projects**, and developed systems integrating **React.js, Python, AWS, and ML models** for real-world analytics.
 
----
-
-## 🧠 Core Competencies
-
-- **AI Agents & Autonomous Systems** – Decision-making, multi-modal reasoning  
-- **Large Language Models (LLMs)** – GPT-based models, summarization, Q&A, interpretability  
-- **MLOps & Pipelines** – End-to-end ML deployment, monitoring, CI/CD  
-- **Full Stack Development** – MERN stack, Django, Flask, REST APIs, WebSockets  
-- **UI/UX Design** – Figma-based design, prototyping, intuitive user experiences  
-- **Mathematical Foundations** – Linear Algebra, Differential Equations, Probability, Optimization  
-- **Programming Languages** – Python, Julia, R, MATLAB, C++  
-- **Data & Visualization** – Pandas, NumPy, Matplotlib, Seaborn, Plotly, Tableau  
+My philosophy: *Build technology that learns, explains, and empowers.*
 
 ---
 
-## 🌌 Notable Projects
+## 🚀 What I Do
 
-- **EliteNotes** – AI-driven multilingual note summarization 🌍 [Explore](https://elite-notes-poc.vercel.app/browse)  
-- **VizFlixGPT** – GPT-powered movie recommendations 🎥 [GitHub](https://github.com/ChandraPrakash-Bathula)  
-- **TubeFlix** – Smart streaming platform with adaptive content 📺 [Live Demo](https://utubeflix-79845.web.app/)  
-- **Taxi Demand Forecasting** – <12% MAPE using XGBoost, grounded in time-series math 🚖  
-- **Apparel Recommender** – CV+NLP fusion (TF-IDF, Word2Vec, CNN) 👗  
-- **Tableau Dashboards** – Data-driven visualizations [View](https://public.tableau.com/app/profile/chandra.prakash.bathula/vizzes)  
-- **Plagiarism Detection Tool** – Custom ML/NLP pipeline for document similarity detection  
+### 🧩 Software Development & Teaching
+- 🧑‍🏫 Teaching and mentoring 300+ students in **Software Development**, **Advanced Software Development**, and **Applied Analytics**.
+- 💡 Supervised 20+ capstone projects — guiding students through **React.js, Node.js, Python, AWS, and BigQuery** integrations.
+- ⚙️ Led deployment pipelines using **Vercel**, **Firebase**, and **AWS** — helping students launch production-grade applications.
 
----
-
-## 🏆 Achievements
-
-- 🎖 **Distinguished Graduate Award** for pioneering AI research  
-- ✍️ **100+ Medium Articles** on ML, DL, and applied AI  
-- 👨‍🏫 Teaching ML, AI agents, and software development with a physics-first lens  
-- 📜 CCSC Central Plains 2025 – Conference Speaker & Judge  
-- 🔬 Research Papers – Published works on AI/ML, matrix factorization, missing data, and LLM interpretability  
+### 💻 Engineering & Research
+- 🚀 Developed internal SLU web apps using **React.js**, **Vue.js**, **Python (Flask/Django)**, and **AWS Cloud Services (Lambda, S3, RDS, EC2)**.
+- 📊 Automated iPaaS workflows and built analytics dashboards — reducing manual workload by **40%** and boosting performance by **30%**.
+- 🧠 Explored **ML/NLP** through projects combining **Word2Vec**, **XGBoost**, **CNNs**, and **PyTorch**, enhancing interpretability and scalability.
 
 ---
 
-## 📚 Research & Publications
+## 🧩 Featured Projects
 
-- **Google Scholar:** [Profile](https://scholar.google.com/citations?user=XXXXX)  
-- **CCSC:** [Conference contributions](https://www.ccsc.org/)  
-- **Notable Papers:**  
-  - "Novel Matrix Factorization Approaches for Missing Value Imputation in Classification"  
-  - "End-to-End Diabetes Prediction & LLM-Augmented Interpretability Pipeline"  
-  - Memory-aware ML architectures: SMNet for CNNs, MLPs, ResNets  
-
----
-
-## 🔭 Current Focus
-
-- Developing **AI agents** and **LLMs** for healthcare, finance, and research  
-- Building **open-source ML experimentation platforms** for global collaboration  
-- Publishing **NeurIPS/ICML/CVPR/AAAI-ready papers** on memory-aware ML and interpretability  
-- Authoring a **Deep Learning Series** (2025) rooted in rigorous mathematics  
+| Project | Tech Stack | Highlights |
+|----------|-------------|------------|
+| [**MoodFlix / VizFlix**](https://viz-flix-gpt.vercel.app/) | React.js, Redux, OpenAI API, TailwindCSS | Mood-based movie recommendations powered by GPT — increased engagement by 30%. |
+| [**TubeFlix**](https://utubeflix-79845.web.app/) | React.js, TailwindCSS, Firebase | Adaptive video streaming for 1K+ videos — reduced load time by 30%. |
+| [**EliteNotes App**](https://elite-notes-poc.vercel.app/) | React.js, Firebase, NLP | 7 ML-powered note-taking features (transcription, tagging, summarization). |
+| **3D PCA Visualization** | Python, Plotly, Word2Vec | Visualized 10K+ word embeddings — reduced semantic complexity by 85%. |
+| **Apparel Recommender** | Python, TF-IDF, CNN, Word2Vec | Combined text & image embeddings to improve accuracy by 20%. |
 
 ---
 
-## ✨ Guiding Quote
+## 🛠️ Tech Stack
 
-<p align="center"><i>“Every equation is a pulse from the cosmos, waiting to be unraveled.”</i></p>
+**Languages:**  
+Python · JavaScript (ES6+) · TypeScript · SQL · R · MATLAB  
+
+**Frontend:**  
+React.js · Vue.js · Next.js · Node.js · Express.js · Redux · Electron.js  
+
+**UI/UX:**  
+Figma · Responsive Design · Accessibility (WCAG/ARIA)  
+
+**Testing:**  
+Jest · Cypress · Unit · Integration · E2E Testing  
+
+**DevOps & Cloud:**  
+AWS (EC2, Lambda, S3, RDS) · Docker · Vercel · Firebase Hosting · CI/CD Pipelines  
+
+**Machine Learning:**  
+scikit-learn · TensorFlow · PyTorch · NLP · Word2Vec · VGG-CNN · XGBoost  
 
 ---
+
+## 🏆 Publications, Awards & Achievements
+
+- 🧾 **First Author:** *“Enterprise Application Tool to Discover Midwest Job Trends”*  
+- 🥇 **Distinguished Student Award** — Master’s Research Project & Academic Excellence  
+- 📊 Presented ML/AI research at **CCSC Central Plains Conference @ Drake University**
+
+---
+
+## 📬 Connect with Me
+
+🌐 [**Portfolio**](https://portfolio-chandra-prakash-bathulas-projects.vercel.app)  
+💼 [**LinkedIn**](https://www.linkedin.com/in/chandra-prakash-bathula)  
+🧠 [**Medium (Blogs)**](https://medium.com/@chandu.bathula16)  
+💻 [**GitHub**](https://github.com/ChandraPrakash-Bathula)  
+📧 **chandu.bathula16@gmail.com**
+
+---
+
+⭐️ *“Technology isn’t just code — it’s a language that connects intelligence, creativity, and purpose.”*  
+— Chandra Prakash Bathula
