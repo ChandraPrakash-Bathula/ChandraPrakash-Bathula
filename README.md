@@ -10,7 +10,7 @@
 I'm a passionate **AI Developer and Front-End Engineer** with a Master's in **Information Systems (GPA: 3.93/4.00)** from **Saint Louis University**.  
 I specialize in designing intelligent, scalable web systems that bridge **Machine Learning** and **Modern Front-End Development**.
 
-I’ve mentored **250+ students** in software and ML development, deployed **40+ full-stack projects**, and developed systems integrating **React.js, Python, AWS, and ML models** for real-world analytics.
+I’ve mentored **300+ students** in software and ML development, deployed **40+ full-stack projects**, and developed systems integrating **React.js, Python, AWS, and ML models** for real-world analytics.
 
 My philosophy: *Build technology that learns, explains, and empowers.*
 
