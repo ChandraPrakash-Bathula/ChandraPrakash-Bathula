@@ -39,11 +39,23 @@ Welcome to my GitHub! I'm a passionate **AI Developer** and **Frontend Engineer*
 
 ---
 
+## 🤗 Hugging Face (Models & Spaces)
+
+- **Food-101 Classification (ResNet50)** — model  
+  https://huggingface.co/chandu1617/Food_101_Classification_ResNet50
+
+- **NYC Taxi Trip Duration Predictor** — Space (demo app)  
+  https://huggingface.co/spaces/chandu1617/NYC_Taxi_Trip_Duration_Predictor
+
+---
+
 ## 🧩 Featured Projects
 
 | Project | Tech Stack | Highlights |
 |:--------|:-----------|:-----------|
 | [**CIFAR-10 CNN Model**](https://huggingface.co/chandu1617/CIFAR10-CNN_Model) | PyTorch, CNN, Hugging Face | Achieved **92.59% test accuracy** on CIFAR-10 with 9 convolutional layers. [Demo](https://huggingface.co/spaces/chandu1617/cifar10-cnn-demo) |
+| [**Food-101 Classification (ResNet50)**](https://huggingface.co/chandu1617/Food_101_Classification_ResNet50) | PyTorch, Computer Vision, Hugging Face | Image classification model trained on Food-101 |
+| [**NYC Taxi Trip Duration Predictor (Space)**](https://huggingface.co/spaces/chandu1617/NYC_Taxi_Trip_Duration_Predictor) | Hugging Face Spaces, ML, Web App | Interactive demo app to predict trip duration |
 | [**MoodFlix / VizFlix**](https://viz-flix-gpt.vercel.app/) | React.js, Redux, OpenAI API, TailwindCSS | GPT-powered movie recommendations, boosting engagement by 30% |
 | [**TubeFlix**](https://utubeflix-79845.web.app/) | React.js, TailwindCSS, Firebase | Adaptive video streaming for 1K+ videos, 30% faster load times |
 | [**EliteNotes App**](https://elite-notes-poc.vercel.app/) | React.js, Firebase, NLP | 7 ML-powered features (transcription, tagging, summarization) |
@@ -58,13 +70,16 @@ Welcome to my GitHub! I'm a passionate **AI Developer** and **Frontend Engineer*
 - **Usage**:
   ```python
   from huggingface_hub import from_pretrained_pytorch
+
   model = from_pretrained_pytorch("chandu1617/CIFAR10-CNN_Model")
+  ```
 
-  ## 🖼️ Interactive Demo
-
+## 🖼️ Interactive Demo
 Try it at [chandu1617/cifar10-cnn-demo](https://huggingface.co/spaces/chandu1617/cifar10-cnn-demo)
 
 **Downloads**: 31/month
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -75,21 +90,29 @@ Try it at [chandu1617/cifar10-cnn-demo](https://huggingface.co/spaces/chandu1617
 - **DevOps & Cloud**: AWS (EC2, Lambda, S3, RDS), Docker, Vercel, Firebase, CI/CD
 - **Machine Learning**: scikit-learn, TensorFlow, PyTorch, NLP, Word2Vec, VGG-CNN, XGBoost
 
+---
+
 ## 🏆 Achievements
 
 - 🧾 **First Author**: *“Enterprise Application Tool to Discover Midwest Job Trends”*
 - 🥇 **Distinguished Student Award** — Master’s Research & Academic Excellence
 - 📊 Presented ML/AI research at **CCSC Central Plains Conference @ Drake University**
 
+---
+
 ## 📝 Blogs
 
 I share insights on AI, ML, and software development. Check out my latest posts:  
 🌐 [Medium Blogs](https://medium.com/@ChandraPrakash-Bathula)
 
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChandraPrakash-Bathula&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraPrakash-Bathula&layout=compact&theme=radical)
+
+---
 
 ## 📬 Connect with Me
 
@@ -101,4 +124,4 @@ I share insights on AI, ML, and software development. Check out my latest posts:
 
 ---
 
-⭐️ Thanks for stopping by! Explore my repos, try the CIFAR-10 demo, or ping me to collaborate! 😎
+⭐️ Thanks for stopping by! Explore my repos, try the demos, or ping me to collaborate!
