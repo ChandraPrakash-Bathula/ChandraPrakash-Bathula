@@ -135,12 +135,11 @@
 ---
 
 ## `> TROPHY VAULT`
-
 <div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ChandraPrakash-Bathula&theme=darkhub&no-frame=true&column=7&margin-w=8)
-
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=ChandraPrakash-Bathula&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8&titleColor=cc0000&row=2)
 </div>
+
+
 
 ```
 [✓] First Author  — "Enterprise Application Tool to Discover Midwest Job Trends"
