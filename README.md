@@ -176,4 +176,4 @@
 
 ## `> BATCAVE — LIVE 3D SCENE`
 
-> 🦇 **[→ Launch Interactive Batcave]([[https://chandraPrakash-Bathula.github.io/batcave/](https://chandraprakash-bathula.github.io/batman/)](https://chandraprakash-bathula.github.io/batman/))** — Bat Signal · Batmobile · 3D Logo
+> 🦇 **[Launch Interactive Batcave](https://chandraprakash-bathula.github.io/batman/)** — Bat Signal · Batmobile · 3D Logo
