@@ -136,7 +136,7 @@
 
 ## `> TROPHY VAULT`
 <div align="center">
-  <img src="(https://ghchart.rshah.org/8b0000/ChandraPrakash-Bathula)" />
+  <img src="https://ghchart.rshah.org/8b0000/ChandraPrakash-Bathula" />
 </div>
 
 
