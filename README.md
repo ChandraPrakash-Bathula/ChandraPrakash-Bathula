@@ -3,6 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:0d0000,100:1a0000&height=220&section=header&text=CHANDRA%20PRAKASH%20BATHULA&fontSize=36&fontColor=cc0000&fontAlignY=42&desc=AI%20Developer%20%E2%80%A2%20Frontend%20Engineer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20Educator&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
 
 <br/>
+<div align="center">
+  <img src="Batman.jpg" width="100%" style="border-radius: 8px;" alt="Batcave Background"/>
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=18&pause=1200&color=880000&center=true&vCenter=true&width=700&lines=Adjunct+Faculty+%40+Saint+Louis+University;ML+%2F+NLP+%2F+Computer+Vision+Researcher;React+%7C+Python+%7C+AWS+Full-Stack+Engineer;300%2B+Students+Mentored+%26+Counting;The+Dark+Knight+of+Code+Never+Stops+Building)](https://git.io/typing-svg)
 
