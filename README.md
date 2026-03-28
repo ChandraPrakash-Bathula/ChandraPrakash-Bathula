@@ -126,8 +126,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ChandraPrakash-Bathula&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=8b0000&icon_color=660000&text_color=555555&ring_color=8b0000" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraPrakash-Bathula&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=8b0000&text_color=555555&langs_count=10" width="49%"/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChandraPrakash-Bathula&theme=react-dark&bg_color=000000&color=8b0000&line=4a0000&point=cc0000&hide_border=true" width="98%"/>
 
 </div>
