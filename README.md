@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FF8E53,50:FFCF30,75:4ECDC4,100:45B7D1&height=200&section=header&text=Chandra%20Prakash%20Bathula&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Developer%20%7C%20Frontend%20Engineer%20%7C%20Educator&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+[<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FF8E53,50:FFCF30,75:4ECDC4,100:45B7D1&height=200&section=header&text=Chandra%20Prakash%20Bathula&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Developer%20%7C%20Frontend%20Engineer%20%7C%20Educator&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=750&lines=Adjunct+Faculty+%40+Saint+Louis+University;ML+%2F+NLP+%2F+Computer+Vision+Researcher;React+%7C+Python+%7C+AWS+Full-Stack+Dev;Mentored+300%2B+Students+%26+Counting!;Turning+Data+into+Out-of-this-World+Visuals!)
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
