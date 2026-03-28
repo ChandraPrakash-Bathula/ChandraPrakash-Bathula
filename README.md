@@ -1,61 +1,84 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-[<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FF8E53,50:FFCF30,75:4ECDC4,100:45B7D1&height=200&section=header&text=Chandra%20Prakash%20Bathula&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Developer%20%7C%20Frontend%20Engineer%20%7C%20Educator&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=750&lines=Adjunct+Faculty+%40+Saint+Louis+University;ML+%2F+NLP+%2F+Computer+Vision+Researcher;React+%7C+Python+%7C+AWS+Full-Stack+Dev;Mentored+300%2B+Students+%26+Counting!;Turning+Data+into+Out-of-this-World+Visuals!)
+<!-- BATMAN HEADER BANNER — dark navy, no rainbow -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=200&section=header&text=Chandra%20Prakash%20Bathula&fontSize=40&fontColor=FFD700&fontAlignY=38&desc=The%20Dark%20Knight%20of%20Code%20%7C%20AI%20%7C%20Frontend%20%7C%20ML&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=🎓+Adjunct+Faculty+%40+Saint+Louis+University;🤖+ML+%2F+NLP+%2F+Computer+Vision+Researcher;⚛️+React+%7C+Python+%7C+AWS+Full-Stack+Dev;🧑‍🏫+Mentored+300%2B+Students+%26+Counting!;🚀+Turning+Data+into+Out-of-this-World+Visuals!" alt="Typing SVG" />
-</a>
+<!-- BATMAN LOGO ASCII -->
+
+```
+        _,    _   _    ,_
+   .o888P     Y8o8Y     Y888o.
+  d88888      88888      88888b
+ d888888b_  _d88888b_  _d888888b
+ 8888888888888888888888888888888
+ 8888888888888888888888888888888
+ YYYY8888888888888888888888YYYY
+      `"^"888888888888^""`
+            `"^Y8888Y^"`
+                `""`
+    CHANDRA PRAKASH BATHULA
+    [ THE DARK KNIGHT CODES ]
+```
+
+<!-- TYPING ANIMATION — herokuapp is more stable than demolab -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=750&lines=Adjunct+Faculty+%40+Saint+Louis+University;ML+%2F+NLP+%2F+Computer+Vision+Researcher;React+%7C+Python+%7C+AWS+Full-Stack+Dev;Mentored+300%2B+Students+%26+Counting;Turning+Dark+Data+into+Golden+Insights)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- PROFILE VISIT COUNTER + SOCIAL PROOF BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=ChandraPrakash-Bathula&style=for-the-badge&color=FF6B6B&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/ChandraPrakash-Bathula?style=for-the-badge&color=4ECDC4&logo=github&label=FOLLOWERS)](https://github.com/ChandraPrakash-Bathula)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chandra-prakash-bathula)
-
-</div>
+<!-- PROFILE VIEWS + BADGES -->
+![Profile Views](https://komarev.com/ghpvc/?username=ChandraPrakash-Bathula&style=for-the-badge&color=FFD700&labelColor=0a0a0a&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/ChandraPrakash-Bathula?style=for-the-badge&color=FFD700&labelColor=0a0a0a&logo=github&label=FOLLOWERS)](https://github.com/ChandraPrakash-Bathula)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FFD700?style=for-the-badge&logo=linkedin&labelColor=0a0a0a)](https://www.linkedin.com/in/chandra-prakash-bathula)
 
 ---
 
-## 🌈 About Me
+> *"It's not who I am underneath, but what I build that defines me."* — The Dark Knight of Code
+
+---
+
+</div>
+
+## ⚡ The Dark Knight's Dossier
 
 ```python
-class ChandraPrakash:
-    name       = "Chandra Prakash Bathula"
-    role       = ["Adjunct Faculty @ SLU", "AI Developer", "Frontend Engineer"]
-    education  = "M.S. Information Systems — Saint Louis University (GPA: 3.93/4.0)"
-    passion    = "Blending ML intelligence with beautiful frontend experiences"
-    superpower = "Turning 10K+ data points into 3D visualizations 🔭"
-    students   = "Mentored 300+ across Software Dev, Advanced Dev & Applied Analytics"
-    fun_fact   = "I think in React components and dream in PyTorch tensors 🧠"
+class DarkKnightDev:
+    alias      = "Chandra Prakash Bathula"
+    base       = "Saint Louis University — The Batcave"
+    degree     = "M.S. Information Systems  |  GPA: 3.93 / 4.0"
+    roles      = ["Adjunct Faculty", "AI Developer", "Frontend Engineer"]
+    gadgets    = ["React.js", "PyTorch", "AWS", "Docker", "HuggingFace"]
+    mission    = "Deploying AI-powered solutions that fight complexity"
+    sidekicks  = "300+ students mentored and counting"
+    superpower = "3D PCA visualizations that reveal the unseen patterns"
+    weakness   = None  # The Dark Knight has none
 ```
 
 ---
 
-## ⚡ What I Build & Teach
+## ⚡ The Arsenal — Two Wings of Power
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧩 Engineering
-- ⚛️ **React.js / Vue.js / Next.js** production apps
-- 🐍 **Python** (Flask, Django) backend services
-- ☁️ **AWS** (Lambda, S3, RDS, EC2) at scale
+### `[ UTILITY BELT — Engineering ]`
+- ⚡ **React.js / Vue.js / Next.js** production apps
+- 🐍 **Python** Flask & Django APIs
+- ☁️ **AWS** Lambda · S3 · RDS · EC2
+- 🔁 **iPaaS automation** — 40% workload slashed
 - 📊 Real-time analytics dashboards
-- 🔁 iPaaS automation — **40% workload reduction**
+- 🚀 30% performance boost on SLU web apps
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 AI & Research
-- 🧠 NLP with **Word2Vec**, **TF-IDF**, **XGBoost**
-- 👁️ Computer Vision: **CNNs**, **ResNet50**, **VGG**
-- 🔥 **PyTorch** & **TensorFlow** model training
+### `[ BATCOMPUTER — AI & Research ]`
+- 🧠 **NLP** — Word2Vec · TF-IDF · XGBoost
+- 👁️ **Vision** — CNNs · ResNet50 · VGG
+- 🔥 **PyTorch & TensorFlow** model architect
 - 📝 First Author — *Midwest Job Trends Research*
-- 🏆 Presented at **CCSC Central Plains @ Drake University**
+- 🏆 Speaker at **CCSC @ Drake University**
+- 🌌 3D PCA — 10K embeddings, 85% less complexity
 
 </td>
 </tr>
@@ -63,105 +86,87 @@ class ChandraPrakash:
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ Mission Logs — Featured Projects
 
-| 🎨 Project | 🛠 Stack | ✨ Highlights |
-|:-----------|:---------|:-------------|
-| [**CIFAR-10 CNN**](https://huggingface.co/chandu1617/CIFAR10-CNN_Model) | PyTorch · CNN · HuggingFace | **92.59% accuracy** · 9 conv layers · [Live Demo](https://huggingface.co/spaces/chandu1617/cifar10-cnn-demo) |
-| [**Food-101 (ResNet50)**](https://huggingface.co/chandu1617/Food_101_Classification_ResNet50) | PyTorch · Computer Vision | Image classification on 101 food categories |
-| [**NYC Taxi Predictor**](https://huggingface.co/spaces/chandu1617/NYC_Taxi_Trip_Duration_Predictor) | ML · HuggingFace Spaces | Interactive trip duration prediction app |
-| [**MoodFlix / VizFlix**](https://viz-flix-gpt.vercel.app/) | React · Redux · OpenAI · Tailwind | GPT-powered movie recs · **+30% engagement** |
-| [**TubeFlix**](https://utubeflix-79845.web.app/) | React · Firebase · Tailwind | 1K+ videos · **30% faster load times** |
-| [**EliteNotes**](https://elite-notes-poc.vercel.app/) | React · Firebase · NLP | 7 ML features: transcription, tagging, summarization |
-| **3D PCA Visualizer** | Python · Plotly · Word2Vec | 10K+ embeddings · **85% complexity reduction** |
-| **Apparel Recommender** | TF-IDF · CNN · Word2Vec | **+20% accuracy** via text & image fusion |
+| `STATUS` | Project | Tech Stack | Mission Outcome |
+|:--------:|:--------|:-----------|:----------------|
+| `ACTIVE` | [**CIFAR-10 CNN**](https://huggingface.co/chandu1617/CIFAR10-CNN_Model) | PyTorch · CNN · HuggingFace | **92.59% accuracy** · 9 conv layers · [Demo](https://huggingface.co/spaces/chandu1617/cifar10-cnn-demo) |
+| `ACTIVE` | [**Food-101 ResNet50**](https://huggingface.co/chandu1617/Food_101_Classification_ResNet50) | PyTorch · Computer Vision | 101 food class image classifier |
+| `ACTIVE` | [**NYC Taxi Predictor**](https://huggingface.co/spaces/chandu1617/NYC_Taxi_Trip_Duration_Predictor) | ML · HuggingFace Spaces | Live trip duration prediction app |
+| `ACTIVE` | [**MoodFlix / VizFlix**](https://viz-flix-gpt.vercel.app/) | React · Redux · OpenAI · Tailwind | GPT movie recs · **+30% engagement** |
+| `ACTIVE` | [**TubeFlix**](https://utubeflix-79845.web.app/) | React · Firebase · Tailwind | 1K+ videos · **30% faster loads** |
+| `ACTIVE` | [**EliteNotes**](https://elite-notes-poc.vercel.app/) | React · Firebase · NLP | 7 ML features: transcribe · tag · summarize |
+| `ACTIVE` | **3D PCA Visualizer** | Python · Plotly · Word2Vec | 10K+ embeddings · **85% complexity cut** |
+| `ACTIVE` | **Apparel Recommender** | TF-IDF · CNN · Word2Vec | **+20% accuracy** via text+image fusion |
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Batcave Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=0a0a0a)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=0a0a0a)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=FFD700)
+![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=FFD700)
+![Vue.js](https://img.shields.io/badge/Vue.js-1a1a2e?style=for-the-badge&logo=vuedotjs&logoColor=FFD700)
+![Next.js](https://img.shields.io/badge/Next.js-FFD700?style=for-the-badge&logo=nextdotjs&logoColor=0a0a0a)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=FFD700)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-FFD700?style=for-the-badge&logo=tailwindcss&logoColor=0a0a0a)
+![PyTorch](https://img.shields.io/badge/PyTorch-1a1a2e?style=for-the-badge&logo=pytorch&logoColor=FFD700)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FFD700?style=for-the-badge&logo=tensorflow&logoColor=0a0a0a)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1a1a2e?style=for-the-badge&logo=scikitlearn&logoColor=FFD700)
+![AWS](https://img.shields.io/badge/AWS-FFD700?style=for-the-badge&logo=amazonaws&logoColor=0a0a0a)
+![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=FFD700)
+![Firebase](https://img.shields.io/badge/Firebase-FFD700?style=for-the-badge&logo=firebase&logoColor=0a0a0a)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-1a1a2e?style=for-the-badge&logo=huggingface&logoColor=FFD700)
+![SQL](https://img.shields.io/badge/SQL-FFD700?style=for-the-badge&logo=mysql&logoColor=0a0a0a)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Batcomputer Stats
 
 <div align="center">
 
-<!-- STREAK STATS -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChandraPrakash-Bathula&theme=radical&hide_border=true&stroke=FF6B6B&ring=FFCF30&fire=FF8E53&currStreakLabel=4ECDC4&background=0D1117" width="49%" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChandraPrakash-Bathula&theme=dark&hide_border=true&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&background=0a0a0a&sideLabels=FFD700&dates=888888&sideNums=FFFFFF" width="49%" alt="GitHub Streak"/>
 
-<!-- GENERAL STATS -->
-<img src="https://github-readme-stats.vercel.app/api?username=ChandraPrakash-Bathula&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFCF30&text_color=FFFFFF&ring_color=4ECDC4" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ChandraPrakash-Bathula&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF" width="49%" alt="GitHub Stats"/>
 
-<!-- TOP LANGUAGES -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraPrakash-Bathula&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF&langs_count=10" width="49%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraPrakash-Bathula&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=FFD700&text_color=FFFFFF&langs_count=10" width="49%" alt="Top Languages"/>
 
-<!-- CONTRIBUTION GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChandraPrakash-Bathula&theme=react-dark&bg_color=0D1117&color=FF6B6B&line=FFCF30&point=4ECDC4&hide_border=true" width="98%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChandraPrakash-Bathula&theme=react-dark&bg_color=0a0a0a&color=FFD700&line=FFD700&point=FFFFFF&hide_border=true" width="98%" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## ⚡ The Dark Knight's Trophies
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ChandraPrakash-Bathula&theme=radical&no-frame=true&column=7&margin-w=8)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ChandraPrakash-Bathula&theme=darkhub&no-frame=true&column=7&margin-w=8)
 
 </div>
 
-- 🧾 **First Author** — *"Enterprise Application Tool to Discover Midwest Job Trends"*
-- 🥇 **Distinguished Student Award** — Master's Research & Academic Excellence
-- 🎤 Presented ML/AI research at **CCSC Central Plains Conference @ Drake University**
-- 🚀 Deployed **40+ full-stack** production projects
-- 🧑‍🏫 Guided **20+ capstone projects** end-to-end
+- ⚡ **First Author** — *"Enterprise Application Tool to Discover Midwest Job Trends"*
+- ⚡ **Distinguished Student Award** — Master's Research & Academic Excellence
+- ⚡ **Speaker** at CCSC Central Plains Conference @ Drake University
+- ⚡ **40+ full-stack** production projects deployed
+- ⚡ **20+ capstone** projects guided to completion
 
 ---
 
-## 🤗 Hugging Face Models & Spaces
+## ⚡ Bat-Signal — Find Me Here
 
 <div align="center">
 
-| 🤗 Model / Space | Type | Link |
-|:-----------------|:-----|:-----|
-| Food-101 Classification (ResNet50) | Model | [View on HuggingFace](https://huggingface.co/chandu1617/Food_101_Classification_ResNet50) |
-| NYC Taxi Trip Duration Predictor | Space (Demo) | [Try it Live](https://huggingface.co/spaces/chandu1617/NYC_Taxi_Trip_Duration_Predictor) |
-| CIFAR-10 CNN Demo | Space (Demo) | [Try it Live](https://huggingface.co/spaces/chandu1617/cifar10-cnn-demo) |
-
-</div>
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5733?style=for-the-badge)](https://portfolio-chandra-prakash-bathulas-projects.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandra-prakash-bathula)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ChandraPrakash-Bathula)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChandraPrakash-Bathula)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandu.bathula16@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=firefox&logoColor=FFD700)](https://portfolio-chandra-prakash-bathulas-projects.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://www.linkedin.com/in/chandra-prakash-bathula)
+[![Medium](https://img.shields.io/badge/Medium-0a0a0a?style=for-the-badge&logo=medium&logoColor=FFD700)](https://medium.com/@ChandraPrakash-Bathula)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/ChandraPrakash-Bathula)
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=FFD700)](mailto:chandu.bathula16@gmail.com)
 
 </div>
 
@@ -169,6 +174,6 @@ class ChandraPrakash:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:45B7D1,25:4ECDC4,50:FFCF30,75:FF8E53,100:FF6B6B&height=120&section=footer&text=Thanks+for+stopping+by!+⭐+Star+a+repo+if+you+like+what+you+see!&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer&text=The+Dark+Knight+never+stops+building.&fontSize=16&fontColor=FFD700&fontAlignY=65" width="100%"/>
 
 </div>
