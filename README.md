@@ -34,7 +34,7 @@
 ┌─────────────────────────────────────────────────────────────┐
 │  ALIAS      : Chandra Prakash Bathula                       │
 │  BASE       : Saint Louis University — St. Louis, MO        │
-│  CLEARANCE  : M.S. Information Systems  |  GPA: 3.93 / 4.0 │
+│  CLEARANCE  : M.S. Information Systems  |  GPA: 3.93 / 4.0  │
 │  ROLES      : Adjunct Faculty · AI Developer · FE Engineer  │
 │  ARSENAL    : React · PyTorch · AWS · Docker · HuggingFace  │
 │  OPERATIVES : 300+ Students Mentored                        │
