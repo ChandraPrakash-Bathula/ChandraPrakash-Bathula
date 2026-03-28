@@ -163,6 +163,8 @@ class DarkKnightDev:
 [✓] 20+ Capstone Projects — GUIDED TO COMPLETION
 ```
 
+<img width="1440" height="1040" alt="image" src="https://github.com/user-attachments/assets/8055852d-353a-4e01-8bf1-87c3e2665f03" />
+
 ---
 
 ## `[ BAT-SIGNAL — Open Comms ]`
