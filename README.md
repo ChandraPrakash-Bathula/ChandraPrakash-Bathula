@@ -178,7 +178,3 @@
 ## `> BATCAVE — LIVE 3D SCENE`
 
 > 🦇 **[Launch Interactive Batcave](https://chandraprakash-bathula.github.io/batman/)** — Bat Signal · Batmobile · 3D Logo
-
-<div align="center">
-  <img src="https://chandraprakash-bathula.github.io/batman/" width="100%" style="border-radius: 8px;" alt="Batcave Background"/>
-</div>
