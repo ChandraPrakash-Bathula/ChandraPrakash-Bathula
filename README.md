@@ -136,7 +136,7 @@
 
 ## `> TROPHY VAULT`
 <div align="center">
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=ChandraPrakash-Bathula&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8&titleColor=cc0000&row=2)
+  <img src="https://github-profile-trophy.vercel.app/?username=ChandraPrakash-Bathula&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8&titleColor=cc0000&row=2" />
 </div>
 
 
