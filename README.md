@@ -136,7 +136,7 @@
 
 ## `> TROPHY VAULT`
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChandraPrakash-Bathula&show_icons=true&theme=radical" />
+  <img src="(https://ghchart.rshah.org/8b0000/ChandraPrakash-Bathula)" />
 </div>
 
 
