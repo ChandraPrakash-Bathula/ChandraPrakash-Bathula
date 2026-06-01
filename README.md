@@ -6,7 +6,7 @@
 
 <div align="center">
   <!-- <img src="Batman.jpg" width="100%" style="border-radius: 8px;" alt="Batcave Background"/> -->
-  <img src="batman.gif" width="100%" style="border-radius: 8px;" alt="Batcave Background"/>
+  <img src="Bat.gif" width="100%" style="border-radius: 8px;" alt="Batcave Background"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=18&pause=1200&color=880000&center=true&vCenter=true&width=700&lines=Adjunct+Faculty+%40+Saint+Louis+University;ML+%2F+NLP+%2F+Computer+Vision+Researcher;Deep+Learning+%7C+LLMs+%7C+RAG+%7C+Agentic+AI+%7C+Full-Stack+Development;300%2B+Students+Mentored+%26+Counting;When+light+hits+the+sky+it+is+not+just+a+signal+it%27s+a+warning.)](https://git.io/typing-svg)
