@@ -6,10 +6,9 @@
 
 <div align="center">
   <img src="Batman.jpg" width="100%" style="border-radius: 8px;" alt="Batcave Background"/>
-  <!-- <img src="Bat.gif" width="100%" style="border-radius: 8px;" alt="Batcave Background"/> -->
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=18&pause=1200&color=880000&center=true&vCenter=true&width=700&lines=Adjunct+Faculty+%40+Saint+Louis+University;ML+%2F+NLP+%2F+Computer+Vision+Researcher;Deep+Learning+%7C+LLMs+%7C+RAG+%7C+Agentic+AI+%7C+Full-Stack+Development;300%2B+Students+Mentored+%26+Counting;When+light+hits+the+sky+it+is+not+just+a+signal+it%27s+a+warning.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=18&pause=1200&color=880000&center=true&vCenter=true&width=700&lines=Adjunct+Faculty+%40+Saint+Louis+University;ML+%2F+NLP+%2F+Computer+Vision+Researcher;Deep+Learning+%7C+LLMs+%7C+RAG+%7C+Agentic+AI+%7C+Full-Stack+Development;300%2B+Students+Mentored+%26+Counting;When+light+hits+the+sky+it+is+not+just+a+signal+it%27s+a+warning.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -127,9 +126,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChandraPrakash-Bathula&theme=dark&hide_border=true&stroke=1a0000&ring=8b0000&fire=cc0000&currStreakLabel=8b0000&background=000000&sideLabels=5a0000&dates=333333&sideNums=cc0000" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=ChandraPrakash-Bathula&theme=dark&hide_border=true&stroke=1a0000&ring=8b0000&fire=cc0000&currStreakLabel=8b0000&background=000000&sideLabels=5a0000&dates=333333&sideNums=cc0000" width="49%"/>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=ChandraPrakash-Bathula&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=8b0000&icon_color=660000&text_color=555555&ring_color=8b0000" width="49%"/> -->
+<img src="https://github-readme-stats.vercel.app/api?username=ChandraPrakash-Bathula&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=8b0000&icon_color=660000&text_color=555555&ring_color=8b0000" width="49%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChandraPrakash-Bathula&theme=react-dark&bg_color=000000&color=8b0000&line=4a0000&point=cc0000&hide_border=true" width="98%"/>
 
@@ -138,11 +137,10 @@
 ---
 
 ## `> TROPHY VAULT`
+
 <div align="center">
   <img src="https://ghchart.rshah.org/8b0000/ChandraPrakash-Bathula" />
 </div>
-
-
 
 ```
 [✓] First Author  — "Enterprise Application Tool to Discover Midwest Job Trends"
@@ -173,9 +171,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,60:0d0000,100:000000&height=100&section=footer&text=The+Dark+Knight+never+stops+building.&fontSize=13&fontColor=4a0000&fontAlignY=65" width="100%"/>
 
 </div>
-
----
-
-## `> BATCAVE — LIVE 3D SCENE`
-
-> 🦇 **[Launch Interactive Batcave](https://chandraprakash-bathula.github.io/batman/)** — Bat Signal · Batmobile · 3D Logo
