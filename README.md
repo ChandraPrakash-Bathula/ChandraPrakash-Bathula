@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="Batman.jpg" width="100%" style="border-radius: 8px;" alt="Batcave Background"/>
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f987.png" width="90" alt="Bat Symbol"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=18&pause=1200&color=880000&center=true&vCenter=true&width=700&lines=Adjunct+Faculty+%40+Saint+Louis+University;AI%2FML+Engineer+%7C+Computer+Vision+Researcher;Deep+Learning+%7C+LLMs+%7C+RAG+%7C+Agentic+AI+%7C+Full-Stack+Development;300%2B+Students+Mentored+%26+Counting;When+light+hits+the+sky+it+is+not+just+a+signal+it%27s+a+warning.)](https://git.io/typing-svg)
@@ -175,11 +175,13 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=ChandraPrakash-Bathula&theme=dark&hide_border=true&stroke=1a0000&ring=8b0000&fire=cc0000&currStreakLabel=8b0000&background=000000&sideLabels=5a0000&dates=333333&sideNums=cc0000" width="50%"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ChandraPrakash-Bathula&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=8b0000&icon_color=660000&text_color=555555&ring_color=8b0000" width="50%"/>
+![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=8b0000&labelColor=0a0000&label=REPOS&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FChandraPrakash-Bathula)
+![Public Gists](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=8b0000&labelColor=0a0000&label=GISTS&query=public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2FChandraPrakash-Bathula)
+![Followers](https://img.shields.io/github/followers/ChandraPrakash-Bathula?style=for-the-badge&color=8b0000&labelColor=0a0000&logo=github&label=FOLLOWERS)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChandraPrakash-Bathula&theme=react-dark&bg_color=000000&color=8b0000&line=4a0000&point=cc0000&hide_border=true" width="98%"/>
+
+<sub><em>(Live activity graph above may occasionally be slow to load — it runs on a shared community server. Repos/Gists/Followers badges are shields.io-backed and load reliably.)</em></sub>
 
 </div>
 
@@ -188,7 +190,13 @@
 ## `> TROPHY VAULT`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChandraPrakash-Bathula&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+
+![First Author](https://img.shields.io/badge/🏆_FIRST_AUTHOR-Published_Research-0a0000?style=for-the-badge&color=8b0000&labelColor=0a0000)
+![Distinguished Graduate](https://img.shields.io/badge/🎓_DISTINGUISHED_GRAD-3.93_GPA-0a0000?style=for-the-badge&color=8b0000&labelColor=0a0000)
+![Speaker](https://img.shields.io/badge/🎤_CONFERENCE_SPEAKER-CCSC_Drake_University-0a0000?style=for-the-badge&color=8b0000&labelColor=0a0000)
+![Projects](https://img.shields.io/badge/🚀_40%2B_PROJECTS-Deployed-0a0000?style=for-the-badge&color=8b0000&labelColor=0a0000)
+![Mentor](https://img.shields.io/badge/👨‍🏫_20%2B_CAPSTONES-Guided-0a0000?style=for-the-badge&color=8b0000&labelColor=0a0000)
+
 </div>
 
 ```
