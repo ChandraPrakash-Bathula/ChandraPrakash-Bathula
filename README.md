@@ -127,7 +127,7 @@
 
 <div align="center">
 
-![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=8b0000&labelColor=0a0000&label=REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FChandraPrakash-Bathula)
+![Projects](https://img.shields.io/badge/PROJECTS-40%2B_Deployed-8b0000?style=for-the-badge&labelColor=0a0000)
 ![Followers](https://img.shields.io/github/followers/ChandraPrakash-Bathula?style=for-the-badge&color=8b0000&labelColor=0a0000&logo=github&label=FOLLOWERS)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChandraPrakash-Bathula&theme=react-dark&bg_color=000000&color=8b0000&line=4a0000&point=cc0000&hide_border=true" width="98%"/>
 
