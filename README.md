@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f987.png" width="90" alt="Bat Symbol"/>
+  <img src="Batman.gif" width="90" alt="Bat Symbol"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=18&pause=1200&color=880000&center=true&vCenter=true&width=700&lines=Adjunct+Faculty+%40+Saint+Louis+University;AI%2FML+Engineer+%7C+Computer+Vision+Researcher;Deep+Learning+%7C+LLMs+%7C+RAG+%7C+Agentic+AI+%7C+Full-Stack+Development;300%2B+Students+Mentored+%26+Counting;When+light+hits+the+sky+it+is+not+just+a+signal+it%27s+a+warning.)](https://git.io/typing-svg)
