@@ -9,7 +9,7 @@
   <!-- <img src="Bat.gif" width="100%" style="border-radius: 8px;" alt="Batcave Background"/> -->
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=18&pause=1200&color=880000&center=true&vCenter=true&width=700&lines=Adjunct+Faculty+%40+Saint+Louis+University;ML+%2F+NLP+%2F+Computer+Vision+Researcher;Deep+Learning+%7C+LLMs+%7C+RAG+%7C+Agentic+AI+%7C+Full-Stack+Development;300%2B+Students+Mentored+%26+Counting;When+light+hits+the+sky+it+is+not+just+a+signal+it%27s+a+warning.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=18&pause=1200&color=880000&center=true&vCenter=true&width=700&lines=Adjunct+Faculty+%40+Saint+Louis+University;ML+%2F+NLP+%2F+Computer+Vision+Researcher;Deep+Learning+%7C+LLMs+%7C+RAG+%7C+Agentic+AI;300%2B+Students+Mentored+%26+Counting;When+light+hits+the+sky+it+is+not+just+a+signal+it%27s+a+warning.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -36,10 +36,10 @@
 │  ALIAS      : Chandra Prakash Bathula                       │
 │  BASE       : Saint Louis University — St. Louis, MO        │
 │  CLEARANCE  : M.S. Information Systems  |  GPA: 3.93 / 4.0  │
-│  ROLES      : Adjunct Faculty · AI Developer · FE Engineer  │
-│  ARSENAL    : React · PyTorch · AWS · Docker · HuggingFace  │
+│  ROLES      : Adjunct Faculty · AI/ML Engineer · Researcher │
+│  ARSENAL    : PyTorch · HuggingFace · LangChain · AWS       │
+│  FOCUS      : Computer Vision · NLP · Agentic AI            │
 │  OPERATIVES : 300+ Students Mentored                        │
-│  PROJECTS   : 40+ Full-Stack Apps Deployed                  │
 │  MISSION    : Build AI-powered systems. Eliminate noise.    │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -53,14 +53,14 @@
 <td width="50%" valign="top">
 
 ```
-[ UTILITY BELT — Engineering ]
+[ UTILITY BELT — ML Engineering ]
 ──────────────────────────────
-▸ React / Vue / Next.js    DEPLOYED
-▸ Python Flask & Django      ACTIVE
+▸ RAG Pipelines · FAISS      ACTIVE
+▸ Agentic Workflows        DEPLOYED
+▸ FastAPI · Docker           ONLINE
 ▸ AWS Lambda · S3 · EC2      ONLINE
-▸ iPaaS Automation       40% CUT
-▸ Analytics Dashboards  REAL-TIME
-▸ SLU Web Systems       30% FASTER
+▸ HuggingFace Spaces           LIVE
+▸ iPaaS Automation          40% CUT
 ```
 
 </td>
@@ -90,9 +90,7 @@
 | `ACT` | [**CIFAR-10 CNN**](https://huggingface.co/chandu1617/CIFAR10-CNN_Model) | PyTorch · CNN · HF | **92.59% acc** · 9 layers · [Demo ↗](https://huggingface.co/spaces/chandu1617/cifar10-cnn-demo) |
 | `ACT` | [**Food-101 ResNet50**](https://huggingface.co/chandu1617/Food_101_Classification_ResNet50) | PyTorch · CV | 101-class image classifier |
 | `ACT` | [**NYC Taxi Predictor**](https://huggingface.co/spaces/chandu1617/NYC_Taxi_Trip_Duration_Predictor) | ML · HF Spaces | Live trip duration prediction |
-| `ACT` | [**MoodFlix / VizFlix**](https://viz-flix-gpt.vercel.app/) | React · Redux · OpenAI | GPT recs · **+30% engagement** |
-| `ACT` | [**TubeFlix**](https://utubeflix-79845.web.app/) | React · Firebase | 1K+ videos · **30% faster loads** |
-| `ACT` | [**EliteNotes**](https://elite-notes-poc.vercel.app/) | React · Firebase · NLP | 7 ML features: transcribe · tag · summarize |
+| `ACT` | [**Show the Wire**](https://huggingface.co/spaces/ChandraPrakashBathula/show-the-wire) | LLM · Tool Calling · HF | Runtime tool discovery & calling |
 | `ACT` | **3D PCA Visualizer** | Python · Plotly · Word2Vec | 10K embeddings · **85% complexity cut** |
 | `ACT` | **Apparel Recommender** | TF-IDF · CNN · Word2Vec | **+20% rec accuracy** via text+image fusion |
 
@@ -103,20 +101,14 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0a0000?style=for-the-badge&logo=python&logoColor=8b0000)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0000?style=for-the-badge&logo=javascript&logoColor=8b0000)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0000?style=for-the-badge&logo=typescript&logoColor=8b0000)
-![React](https://img.shields.io/badge/React-0a0000?style=for-the-badge&logo=react&logoColor=8b0000)
-![Vue.js](https://img.shields.io/badge/Vue.js-0a0000?style=for-the-badge&logo=vuedotjs&logoColor=8b0000)
-![Next.js](https://img.shields.io/badge/Next.js-0a0000?style=for-the-badge&logo=nextdotjs&logoColor=8b0000)
-![Node.js](https://img.shields.io/badge/Node.js-0a0000?style=for-the-badge&logo=nodedotjs&logoColor=8b0000)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0a0000?style=for-the-badge&logo=tailwindcss&logoColor=8b0000)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0a0000?style=for-the-badge&logo=pytorch&logoColor=8b0000)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0000?style=for-the-badge&logo=tensorflow&logoColor=8b0000)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0a0000?style=for-the-badge&logo=scikitlearn&logoColor=8b0000)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0000?style=for-the-badge&logo=huggingface&logoColor=8b0000)
+![LangChain](https://img.shields.io/badge/LangChain-0a0000?style=for-the-badge&logo=langchain&logoColor=8b0000)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a0000?style=for-the-badge&logo=fastapi&logoColor=8b0000)
 ![AWS](https://img.shields.io/badge/AWS-0a0000?style=for-the-badge&logo=amazonaws&logoColor=8b0000)
 ![Docker](https://img.shields.io/badge/Docker-0a0000?style=for-the-badge&logo=docker&logoColor=8b0000)
-![Firebase](https://img.shields.io/badge/Firebase-0a0000?style=for-the-badge&logo=firebase&logoColor=8b0000)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0000?style=for-the-badge&logo=huggingface&logoColor=8b0000)
 ![SQL](https://img.shields.io/badge/SQL-0a0000?style=for-the-badge&logo=mysql&logoColor=8b0000)
 
 </div>
@@ -127,7 +119,6 @@
 
 <div align="center">
 
-![Projects](https://img.shields.io/badge/PROJECTS-40%2B_Deployed-8b0000?style=for-the-badge&labelColor=0a0000)
 ![Followers](https://img.shields.io/github/followers/ChandraPrakash-Bathula?style=for-the-badge&color=8b0000&labelColor=0a0000&logo=github&label=FOLLOWERS)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChandraPrakash-Bathula&theme=react-dark&bg_color=000000&color=8b0000&line=4a0000&point=cc0000&hide_border=true" width="98%"/>
 
@@ -146,7 +137,6 @@
 [✓] First Author  — "Enterprise Application Tool to Discover Midwest Job Trends"
 [✓] Distinguished Student Award — Master's Research & Academic Excellence
 [✓] Speaker — CCSC Central Plains Conference @ Drake University
-[✓] 40+ Full-Stack Production Projects Deployed
 [✓] 20+ Capstone Projects Guided End-to-End
 ```
 
