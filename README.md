@@ -113,7 +113,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/ChandraPrakash-Bathula?style=for-the-badge&color=8b0000&labelColor=0a0000&logo=github&label=FOLLOWERS" alt="Followers" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChandraPrakash-Bathula&theme=react-dark&bg_color=000000&color=8b0000&line=4a0000&point=cc0000&hide_border=true" width="98%" alt="Activity Graph" />
 </div>
 
 ---
@@ -125,10 +124,10 @@
 </div>
 
 ```text
-[✓] First Author  — "Enterprise Application Tool to Discover Midwest Job Trends"
-[✓] Distinguished Student Award — Master's Research & Academic Excellence
-[✓] Speaker — CCSC Central Plains Conference @ Drake University
-[✓] 20+ Capstone Projects Guided End-to-End
+[✓] First Author  — "Developing an Enterprise Application Tool to Discover Midwest Job Trends."
+[✓] Distinction & Distinguished Graduate — Master's Research & Academic Excellence.
+[✓] Paper Presentation & Poster Judge — CCSC Central Plains Conference @ Drake University - 2025.
+[✓] 20+ Capstone Projects Guided End-to-End.
 ```
 
 ---
