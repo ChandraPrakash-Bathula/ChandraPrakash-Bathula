@@ -1,236 +1,162 @@
- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,60:171717,100:541515&height=210&section=header&text=CHANDRA%20PRAKASH%20BATHULA&fontSize=34&fontColor=ffffff&fontAlignY=40&desc=Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning&descAlignY=59&descSize=16" width="100%" alt="Chandra Prakash Bathula — Machine Learning Research and Engineering"/>
-  <br/>
-  <br/>
-  <a href="https://www.linkedin.com/in/chandra-prakash-bathula">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-333333?style=flat-square&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/ChandraPrakash-Bathula">
-    <img src="https://img.shields.io/badge/GitHub-Research%20%26%20Code-333333?style=flat-square&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://huggingface.co/chandu1617">
-    <img src="https://img.shields.io/badge/Hugging%20Face-Models%20%26%20Demos-333333?style=flat-square&logo=huggingface" alt="Hugging Face"/>
-  </a>
-  <a href="https://medium.com/@ChandraPrakash-Bathula">
-    <img src="https://img.shields.io/badge/Medium-Technical%20Writing-333333?style=flat-square&logo=medium" alt="Medium"/>
-  </a>
-  <br/>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=ChandraPrakash-Bathula&style=flat-square&color=7d2020&label=PROFILE+VIEWS" alt="Profile Views"/>
+# Chandra Prakash Bathula
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,60:183A4A,100:2C5364&height=200&section=header&text=CHANDRA%20PRAKASH%20BATHULA&fontSize=34&fontColor=FFFFFF&fontAlignY=40&desc=Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20AI%20Systems&descAlignY=60&descSize=16" width="100%" alt="Chandra Prakash Bathula — Machine Learning Research and Engineering"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&pause=1500&color=2C5364&center=true&vCenter=true&width=750&lines=Deep+Learning+Research+%26+Evaluation;Computer+Vision+%26+Neural+Architectures;Efficient+LLM+Adaptation+%26+Inference;Reproducible+Experiments+%26+Interactive+ML+Systems" alt="Research interests"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chandra-prakash-bathula)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github)](https://github.com/ChandraPrakash-Bathula)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-Models_%26_Demos-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/chandu1617)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-2C5364?style=flat-square&logo=firefox)](https://portfolio-chandra-prakash-bathulas-projects.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Contact-64748B?style=flat-square&logo=gmail&logoColor=white)](mailto:chandraprakash.bathula@slu.edu)
+
 </div>
 
 ---
 
 ## About
 
-I am a machine learning engineer, researcher, and adjunct faculty member at Saint Louis University, working at the intersection of deep learning, computer vision, efficient model adaptation, and AI systems.
+I am an AI/ML researcher, engineer, and Adjunct Faculty member at Saint Louis University, with an M.S. in Information Systems (GPA: 3.93/4.00).
 
-My work combines controlled experimentation, empirical evaluation, model development, and software engineering. I am interested in understanding not only how well models perform, but also **why they perform differently, which experimental factors drive the results, and what conclusions the evidence supports**.
+My work focuses on understanding, evaluating, and building deep learning systems through controlled experiments, reproducible benchmarks, and practical implementations. My research interests include computer vision, neural architecture evaluation, efficient large language model adaptation and inference, and machine learning systems.
 
-I also develop interactive research and educational tools that make machine learning systems easier to inspect, evaluate, and reproduce.
-
-- **Research:** Deep learning evaluation, computer vision, neural architectures, and efficient inference.
-- **Methods:** Controlled benchmarks, ablation studies, empirical analysis, and reproducible experimentation.
-- **Engineering:** PyTorch, Hugging Face, model-serving infrastructure, and interactive ML applications.
-- **Teaching:** Applied machine learning, deep learning, NLP, retrieval-augmented generation, and AI agents.
+I also develop interactive tools that make machine learning methods observable and experimentally accessible, connecting model implementation with empirical analysis.
 
 ## Research Interests
 
-<div align="center">
+- **Computer Vision:** CNNs, Vision Transformers, hybrid architectures, visual representation learning, and cross-dataset evaluation.
+- **Deep Learning Evaluation:** Controlled benchmarking, initialization effects, experimental design, reproducibility, and interpretation of model performance.
+- **Efficient LLMs:** Full fine-tuning, LoRA, QLoRA, speculative decoding, and test-time compute allocation.
+- **Retrieval and Agentic Systems:** Retrieval-augmented generation, tool use, agent evaluation, and interactive AI systems.
+- **ML for Security:** Machine learning benchmarks for network anomaly detection and cyberattack classification.
+- **AI Education and Research Software:** Interactive experiments, visualization, and reproducible learning environments.
 
-| Computer Vision | Efficient Deep Learning | ML Evaluation |
-|:---:|:---:|:---:|
-| CNNs and Transformers | LoRA and QLoRA | Controlled benchmarking |
-| Visual representations | Speculative decoding | Reproducibility |
-| Hybrid architectures | Test-time compute | Experimental validity |
+## Publications
 
-</div>
+### NeurIPS 2026 Workshop
 
-Additional interests include multimodal learning, retrieval-augmented generation, agentic systems, and machine learning for network security.
+**[Separating Architecture from Initialization: What a Controlled CNN-Transformer Benchmark Can and Cannot Attribute](#)**
 
----
+*Can We Trust AI Evaluation? Robustness, Causality, and Risk in Modern AI Assessment — NeurIPS 2026 Workshop.*
 
-## Selected Publications
+- **Author:** Chandra Prakash Bathula
+- **Focus:** Controlled comparison of convolutional and attention-based vision architectures across datasets and training regimes, examining the role of pretraining and initialization in measured performance.
 
-### NeurIPS 2026
-
-**Separating Architecture from Initialization: What a Controlled CNN-Transformer Benchmark Can and Cannot Attribute**
-
-NeurIPS 2026 Workshop: Can We Trust AI Evaluation? Robustness, Causality, and Risk in Modern AI Assessment.
-
-*First-author work on controlled comparisons of CNNs and Transformers across architectures, datasets, and training regimes.*
+### NeurIPS 2026 Education Track
 
 **What Fine-Tuning Costs: A Measured Comparison of Full Fine-Tuning, LoRA, and QLoRA**
 
-NeurIPS 2026 Education Track · Co-authored.
-
-*An empirical comparison of adaptation methods, trainable parameters, memory consumption, checkpoint size, and execution accuracy.*
+- **Authors:** Chandra Prakash Bathula, R. M. Bathula
+- **Focus:** Empirical comparison of fine-tuning methods for parameter efficiency, GPU memory, checkpoint size, training cost, and execution accuracy.
 
 **Same Compute, Different Allocation: An Interactive Learning Experience for Test-Time Compute**
 
-NeurIPS 2026 Education Track · Co-authored.
-
-*An interactive exploration of test-time compute allocation and its performance trade-offs.*
+- **Authors:** Chandra Prakash Bathula, R. M. Bathula
+- **Focus:** Interactive exploration of test-time compute allocation and its effect on model performance and computational trade-offs.
 
 **Fewer Passes, Same Output: Exploring the Performance Trade-offs of Speculative Decoding**
 
-NeurIPS 2026 Education Track · First author.
+- **Author:** Chandra Prakash Bathula
+- **Focus:** Experimental analysis of speculative decoding, including target-model evaluations, verification costs, and practical inference speedups.
 
-*An empirical investigation of speculative decoding, verification overhead, and inference-speed trade-offs.*
-
-### Previous Publication
+### Journal / Conference Publications
 
 **Developing an Enterprise Application Tool to Discover Midwest Job Trends**
 
-*Journal of Computing Sciences in Colleges*, 40(6), 75–89, 2025. ACM.
+- **Authors:** Chandra Prakash Bathula et al.
+- **Venue:** Journal of Computing Sciences in Colleges (CCSC), ACM, 40(6), 75–89, 2025.
+- **DOI:** [10.5555/3729857.3729866](https://doi.org/10.5555/3729857.3729866)
 
-[DOI](https://doi.org/10.5555/3729857.3729866)
+> Publication status and bibliographic details should match the official proceedings. Add links to the final workshop and Education Track papers when their official proceedings pages become available.
 
----
+## Research Experience
 
-## Research & Selected Projects
+### Controlled Evaluation of CNNs and Transformers
 
-### Controlled CNN–Transformer Benchmark
+- Compared 10 vision architectures across nine datasets and three training regimes to investigate the effects of architecture, initialization, and pretraining.
+- Examined differences between training from scratch and fine-tuning pretrained models.
+- Developed a controlled benchmarking workflow to support reproducible comparisons and more careful interpretation of architectural claims.
 
-**Focus:** Architecture evaluation, initialization effects, and experimental validity.
+### Efficient LLM Fine-Tuning
 
-- Compared 10 vision architectures across nine datasets and three training regimes.
-- Investigated the effects of training from scratch versus using pretrained representations.
-- Designed controlled experiments to distinguish architecture-related effects from initialization-related effects.
-- Examined dataset-dependent performance differences and limitations in cross-architecture comparisons.
+- Evaluated 11 variants of Qwen2.5-7B-Instruct using full fine-tuning, LoRA, and QLoRA on WikiSQL.
+- Measured execution accuracy, trainable parameters, GPU memory, training time, and checkpoint size.
+- Implemented evaluation using held-out examples and SQLite execution, with experiment configurations and checkpoint validation.
+- Investigated rank-dependent behavior and documented limitations associated with single-seed experiments and dataset size.
 
-**Technologies:** PyTorch, CNNs, Vision Transformers, Swin Transformers, experimental benchmarking.
+### Speculative Decoding and Test-Time Compute
 
-### LLM Fine-Tuning Laboratory
+- Evaluated speculative decoding trade-offs using smaller draft models and larger target models.
+- Investigated target-model verification frequency, computational overhead, and measured inference speedup.
+- Built interactive tools for examining test-time compute allocation.
 
-**Focus:** Parameter-efficient adaptation and computational cost.
+### Network Anomaly Detection
 
-- Evaluated 11 variants of Qwen2.5-7B-Instruct on WikiSQL using full fine-tuning, LoRA, and QLoRA.
-- Measured execution accuracy, GPU memory consumption, training time, and checkpoint size.
-- Released model variants with configurations, environment files, evaluation metrics, and checkpoint validation.
-- Documented single-seed limitations and the need for additional data-scale experiments.
+- Developed benchmarking infrastructure for evaluating 20+ machine learning models across multiple datasets and eight or more cyberattack categories.
+- Focused on systematic model comparison and reproducible evaluation workflows.
 
-**Technologies:** PyTorch, Hugging Face Transformers, PEFT, bitsandbytes, SQLite.
+## Selected Research and Engineering Projects
 
-### Speculative Decoding
-
-**Focus:** Efficient language-model inference.
-
-- Investigated speculative decoding using smaller draft and larger target models.
-- Measured target-model verification requirements and end-to-end speedup.
-- Developed an interactive demonstration of the trade-offs between acceptance rate, speculation length, and inference efficiency.
-
-**Technologies:** Transformers, Python, Hugging Face, interactive ML applications.
-
-### Agentic AI Benchmarking
-
-**Focus:** Tool use, task completion, and comparative evaluation.
-
-- Evaluated no-code, low-code, and LLM-based agents across 36 tasks.
-- Examined reasoning, academic workflows, and tool-calling behavior under multiple prompting strategies.
-- Built an evaluation framework for comparing agent approaches across task categories.
-
-### ML for Network Security
-
-**Focus:** Reproducible anomaly-detection evaluation.
-
-- Developed benchmarking infrastructure for 20+ machine learning models across multiple cyberattack categories and datasets.
-- Worked on consistent evaluation pipelines and comparative model analysis.
-- Investigated the use of machine learning to identify suspicious patterns in network traffic.
-
----
-
-## Research Software & Interactive Demonstrations
-
-I build tools that connect model development with measurable experiments and interactive exploration.
-
-| Project | Description | Resources |
+| Project | Description | Technologies |
 |---|---|---|
-| WikiSQL Fine-Tuning Laboratory | Compare model adaptation methods, memory use, training cost, and execution accuracy. | [Hugging Face](https://huggingface.co/chandu1617) |
-| CIFAR-10 CNN | Convolutional neural network trained for image classification. | [Model](https://huggingface.co/chandu1617/CIFAR10-CNN_Model) · [Live Demo](https://huggingface.co/spaces/chandu1617/cifar10-cnn-app) |
-| Food-101 Classification | ResNet50-based food image classification. | [Model](https://huggingface.co/chandu1617/Food_101_Classification_ResNet50) |
-| NYC Taxi Duration Prediction | Interactive machine learning application for trip-duration prediction. | [Live Demo](https://huggingface.co/spaces/chandu1617/NYC_Taxi_Trip_Duration_Predictor) |
-| Show the Wire | Interactive exploration of LLM tool discovery and calling. | [Live Demo](https://huggingface.co/spaces/ChandraPrakashBathula/show-the-wire) |
+| [WikiSQL Fine-Tuning Laboratory](https://huggingface.co/chandu1617) | Fine-tuning experiments and evaluation of full fine-tuning, LoRA, and QLoRA | PyTorch, Transformers, PEFT, bitsandbytes, SQLite |
+| [CIFAR-10 CNN](https://huggingface.co/chandu1617/CIFAR10-CNN_Model) | Nine-layer convolutional neural network with an interactive inference demo | PyTorch, CNNs, Hugging Face |
+| [CIFAR-10 CNN Demo](https://huggingface.co/spaces/chandu1617/cifar10-cnn-app) | Interactive image classification | PyTorch, Hugging Face Spaces |
+| [Food-101 Classification](https://huggingface.co/chandu1617/Food_101_Classification_ResNet50) | ResNet-50-based, 101-class image classification | PyTorch, ResNet, Computer Vision |
+| [Show the Wire](https://huggingface.co/spaces/ChandraPrakashBathula/show-the-wire) | Interactive demonstration of LLM tool discovery and calling | LLMs, Tool Calling, Hugging Face |
+| [NYC Taxi Trip Duration Predictor](https://huggingface.co/spaces/chandu1617/NYC_Taxi_Trip_Duration_Predictor) | Deployed machine learning prediction application | Python, Machine Learning, Hugging Face Spaces |
 
-Explore additional implementations, experiments, and repositories through my [GitHub profile](https://github.com/ChandraPrakash-Bathula) and [Hugging Face profile](https://huggingface.co/chandu1617).
+## Teaching and Mentoring
 
----
-
-## Teaching & Academic Experience
-
-**Adjunct Faculty — Saint Louis University, School for Professional Studies**
-
+**Adjunct Faculty — Saint Louis University, School for Professional Studies**  
 *August 2024 – Present*
 
-- Designed and taught applied deep learning material covering PyTorch, CNNs, Transformers, NLP, RAG, and AI agents.
-- Developed more than 10 interactive machine learning playgrounds to support practical experimentation.
-- Taught more than 300 graduate students across applied computing and analytics courses.
-- Mentored 20+ capstone and research projects, covering problem formulation, implementation, experimentation, and technical communication.
-
-My teaching and software development work focuses on making complex machine learning concepts understandable through practical implementation, visual analysis, and hands-on experimentation.
-
----
+- Designed and taught applied deep learning content covering PyTorch, CNNs, Transformers, NLP, RAG, and AI agents.
+- Developed 10+ interactive ML playgrounds for hands-on experimentation.
+- Taught and supported 300+ graduate students across software development, information systems, and analytics courses.
+- Mentored 20+ capstone and research projects across problem formulation, implementation, evaluation, and technical writing.
+- Built RAG Pipeline Studio using FastAPI, React, FAISS, Ollama, and hosted model APIs to compare retrieval configurations and model outputs.
 
 ## Technical Skills
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,docker,aws,react,typescript,postgres,mongodb,git&perline=6" alt="Python, PyTorch, TensorFlow, scikit-learn, FastAPI, Docker, AWS, React, TypeScript, PostgreSQL, MongoDB, and Git"/>
-</div>
+**Programming:** Python, SQL, R, JavaScript, TypeScript
 
-**Machine Learning:** PyTorch, TensorFlow, scikit-learn, CNNs, Transformers, model evaluation, experimental design.
+**Machine Learning:** PyTorch, TensorFlow, scikit-learn, CNNs, Transformers, model evaluation, experimental design
 
-**Efficient AI:** LoRA, QLoRA, parameter-efficient fine-tuning, speculative decoding, inference benchmarking.
+**LLMs and Generative AI:** Hugging Face, PEFT, LoRA, QLoRA, speculative decoding, RAG, FAISS, LangChain, agentic workflows
 
-**Generative AI:** Hugging Face, RAG, FAISS, LangChain, embeddings, LLM APIs, agentic workflows.
+**Computer Vision:** Convolutional architectures, ResNet, Vision Transformers, image classification, architecture benchmarking
 
-**Software & Infrastructure:** Python, SQL, TypeScript, JavaScript, FastAPI, React, Docker, AWS, PostgreSQL, MongoDB, Git, CI/CD.
+**Backend and Deployment:** FastAPI, React, Docker, AWS, PostgreSQL, MongoDB, CI/CD
 
----
+**Visualization and Evaluation:** Plotly, UMAP, metrics analysis, reproducible experiments, interactive ML applications
 
 ## Education
 
-**Saint Louis University** · St. Louis, Missouri
+**Saint Louis University** — St. Louis, Missouri, USA
 
-**M.S. in Information Systems** · May 2024
+**Master of Science in Information Systems** | May 2024
 
-- GPA: 3.93/4.00.
-- Distinguished Graduate with Distinction for the master's research project and overall academic performance.
+- GPA: 3.93/4.00
+- Distinguished Graduate
+- Distinction for master's research project
 
----
+## Academic and Professional Activities
 
-## Recognition & Academic Service
-
-- First-author publication at the CCSC Central Plains Conference proceedings.
-- Research presentation and poster judging at the CCSC Central Plains Conference, Drake University, 2025.
-- Distinguished Graduate recognition at Saint Louis University.
-- Mentorship of 20+ capstone and research projects.
+- Paper presentation and poster judging at the CCSC Central Plains Conference, Drake University, 2025.
+- Development of interactive machine learning education resources and reproducible research software.
+- Mentoring graduate students and supporting applied research and capstone projects.
 
 ---
 
-## Connect
-
 <div align="center">
-  <a href="https://portfolio-chandra-prakash-bathulas-projects.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Research%20%26%20Projects-333333?style=for-the-badge&logo=firefox" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/ChandraPrakash-Bathula">
-    <img src="https://img.shields.io/badge/GitHub-Code%20%26%20Experiments-333333?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://huggingface.co/chandu1617">
-    <img src="https://img.shields.io/badge/Hugging%20Face-Models%20%26%20Demos-333333?style=for-the-badge&logo=huggingface" alt="Hugging Face"/>
-  </a>
-  <a href="https://www.linkedin.com/in/chandra-prakash-bathula">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-333333?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:chandraprakash.bathula@slu.edu">
-    <img src="https://img.shields.io/badge/Email-Contact-333333?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-</div>
 
-<div align="center">
-  <br/>
-  <sub>Building, evaluating, and understanding machine learning systems through rigorous experimentation.</sub>
-  <br/>
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:541515,60:171717,100:090909&height=100&section=footer" width="100%" alt="Footer"/>
+### Connect
+
+[Website](https://portfolio-chandra-prakash-bathulas-projects.vercel.app) · [LinkedIn](https://www.linkedin.com/in/chandra-prakash-bathula) · [GitHub](https://github.com/ChandraPrakash-Bathula) · [Hugging Face](https://huggingface.co/chandu1617) · [Medium](https://medium.com/@ChandraPrakash-Bathula)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,60:183A4A,100:101820&height=100&section=footer" width="100%" alt="Footer"/>
+
 </div>
