@@ -48,12 +48,12 @@ I also develop interactive tools that make machine learning methods observable a
 
 **What Fine-Tuning Costs: A Measured Comparison of Full Fine-Tuning, LoRA, and QLoRA**
 
-- **Authors:** Chandra Prakash Bathula, R. M. Bathula
+- **Authors:** Chandra Prakash Bathula, Ram Mohan Bathula
 - **Focus:** Empirical comparison of fine-tuning methods for parameter efficiency, GPU memory, checkpoint size, training cost, and execution accuracy.
 
 **Same Compute, Different Allocation: An Interactive Learning Experience for Test-Time Compute**
 
-- **Authors:** Chandra Prakash Bathula, R. M. Bathula
+- **Authors:** Chandra Prakash Bathula, Ram Mohan Bathula
 - **Focus:** Interactive exploration of test-time compute allocation and its effect on model performance and computational trade-offs.
 
 **Fewer Passes, Same Output: Exploring the Performance Trade-offs of Speculative Decoding**
@@ -65,7 +65,7 @@ I also develop interactive tools that make machine learning methods observable a
 
 **Developing an Enterprise Application Tool to Discover Midwest Job Trends**
 
-- **Authors:** Chandra Prakash Bathula et al.
+- **Authors:** Chandra Prakash Bathula & Maria Weber.
 - **Venue:** Journal of Computing Sciences in Colleges (CCSC), ACM, 40(6), 75–89, 2025.
 - **DOI:** [10.5555/3729857.3729866](https://doi.org/10.5555/3729857.3729866)
 
