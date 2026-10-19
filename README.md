@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chandra-prakash-bathula)
 [![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github)](https://github.com/ChandraPrakash-Bathula)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-Models_%26_Demos-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/chandu1617)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-Models_%26_Demos-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/ChandraPrakashBathula)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-2C5364?style=flat-square&logo=firefox)](https://portfolio-chandra-prakash-bathulas-projects.vercel.app)
 [![Email](https://img.shields.io/badge/Email-Contact-64748B?style=flat-square&logo=gmail&logoColor=white)](mailto:chandraprakash.bathula@slu.edu)
 
