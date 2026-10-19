@@ -69,8 +69,6 @@ I also develop interactive tools that make machine learning methods observable a
 - **Venue:** Journal of Computing Sciences in Colleges (CCSC), ACM, 40(6), 75–89, 2025.
 - **DOI:** [10.5555/3729857.3729866](https://doi.org/10.5555/3729857.3729866)
 
-> Publication status and bibliographic details should match the official proceedings. Add links to the final workshop and Education Track papers when their official proceedings pages become available.
-
 ## Research Experience
 
 ### Controlled Evaluation of CNNs and Transformers
